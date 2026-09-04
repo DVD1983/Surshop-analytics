@@ -1,0 +1,501 @@
+cliente_id,nombre,ciudad,provincia,segmento,fecha_alta
+1,Cliente 1,Pinamar,Buenos Aires,VIP,2026-07-28
+2,Cliente 2,Pinamar,Buenos Aires,Nuevo,2025-12-15
+3,Cliente 3,CABA,CABA,VIP,2024-07-29
+4,Cliente 4,Mar del Plata,Buenos Aires,Recurrente,2024-07-25
+5,Cliente 5,Tandil,Buenos Aires,VIP,2024-12-26
+6,Cliente 6,Bahia Blanca,Buenos Aires,VIP,2026-07-23
+7,Cliente 7,Mar del Plata,Buenos Aires,VIP,2025-12-27
+8,Cliente 8,Tandil,Buenos Aires,Recurrente,2026-07-26
+9,Cliente 9,Tandil,Buenos Aires,VIP,2024-08-19
+10,Cliente 10,Pinamar,Buenos Aires,Recurrente,2025-02-10
+11,Cliente 11,Bahia Blanca,Buenos Aires,VIP,2025-05-20
+12,Cliente 12,Tandil,Buenos Aires,Nuevo,2026-08-16
+13,Cliente 13,Necochea,Buenos Aires,VIP,2024-09-07
+14,Cliente 14,Bahia Blanca,Buenos Aires,Nuevo,2025-11-11
+15,Cliente 15,CABA,CABA,VIP,2024-07-02
+16,Cliente 16,La Plata,Buenos Aires,VIP,2026-05-20
+17,Cliente 17,Bahia Blanca,Buenos Aires,VIP,2025-08-20
+18,Cliente 18,Necochea,Buenos Aires,Nuevo,2024-12-12
+19,Cliente 19,La Plata,Buenos Aires,VIP,2024-08-05
+20,Cliente 20,Bahia Blanca,Buenos Aires,Recurrente,2026-04-17
+21,Cliente 21,Bahia Blanca,Buenos Aires,VIP,2025-02-03
+22,Cliente 22,La Plata,Buenos Aires,Recurrente,2024-11-27
+23,Cliente 23,Necochea,Buenos Aires,Nuevo,2025-01-08
+24,Cliente 24,CABA,CABA,Recurrente,2026-06-12
+25,Cliente 25,Mar del Plata,Buenos Aires,Recurrente,2026-01-01
+26,Cliente 26,Necochea,Buenos Aires,Nuevo,2026-06-02
+27,Cliente 27,Necochea,Buenos Aires,VIP,2026-05-11
+28,Cliente 28,Bahia Blanca,Buenos Aires,Nuevo,2025-05-15
+29,Cliente 29,Pinamar,Buenos Aires,Nuevo,2026-03-09
+30,Cliente 30,La Plata,Buenos Aires,Nuevo,2026-01-20
+31,Cliente 31,Pinamar,Buenos Aires,Nuevo,2024-09-03
+32,Cliente 32,Pinamar,Buenos Aires,Recurrente,2026-06-10
+33,Cliente 33,Tandil,Buenos Aires,Recurrente,2026-02-28
+34,Cliente 34,Tandil,Buenos Aires,Recurrente,2025-12-15
+35,Cliente 35,CABA,CABA,Nuevo,2025-07-30
+36,Cliente 36,La Plata,Buenos Aires,Recurrente,2024-09-17
+37,Cliente 37,Tandil,Buenos Aires,VIP,2024-09-20
+38,Cliente 38,La Plata,Buenos Aires,VIP,2025-12-31
+39,Cliente 39,Necochea,Buenos Aires,VIP,2025-10-03
+40,Cliente 40,Bahia Blanca,Buenos Aires,Nuevo,2026-06-16
+41,Cliente 41,CABA,CABA,Recurrente,2024-08-17
+42,Cliente 42,La Plata,Buenos Aires,VIP,2024-10-20
+43,Cliente 43,Bahia Blanca,Buenos Aires,Nuevo,2024-11-02
+44,Cliente 44,Bahia Blanca,Buenos Aires,VIP,2025-11-24
+45,Cliente 45,CABA,CABA,VIP,2024-07-21
+46,Cliente 46,Tandil,Buenos Aires,Recurrente,2025-11-26
+47,Cliente 47,Pinamar,Buenos Aires,Recurrente,2025-06-10
+48,Cliente 48,Tandil,Buenos Aires,Nuevo,2025-08-17
+49,Cliente 49,CABA,CABA,VIP,2025-03-19
+50,Cliente 50,Bahia Blanca,Buenos Aires,VIP,2024-07-10
+51,Cliente 51,Mar del Plata,Buenos Aires,VIP,2026-03-19
+52,Cliente 52,Pinamar,Buenos Aires,VIP,2024-09-25
+53,Cliente 53,Bahia Blanca,Buenos Aires,Recurrente,2026-06-18
+54,Cliente 54,Bahia Blanca,Buenos Aires,Nuevo,2024-12-20
+55,Cliente 55,Bahia Blanca,Buenos Aires,Recurrente,2025-12-08
+56,Cliente 56,Tandil,Buenos Aires,VIP,2024-09-25
+57,Cliente 57,Pinamar,Buenos Aires,VIP,2024-09-23
+58,Cliente 58,Tandil,Buenos Aires,Nuevo,2024-06-26
+59,Cliente 59,Pinamar,Buenos Aires,Nuevo,2026-04-30
+60,Cliente 60,La Plata,Buenos Aires,Nuevo,2026-03-14
+61,Cliente 61,Bahia Blanca,Buenos Aires,VIP,2024-08-13
+62,Cliente 62,Pinamar,Buenos Aires,Nuevo,2025-03-28
+63,Cliente 63,Necochea,Buenos Aires,VIP,2025-03-21
+64,Cliente 64,Mar del Plata,Buenos Aires,Recurrente,2025-10-21
+65,Cliente 65,Necochea,Buenos Aires,Recurrente,2025-03-21
+66,Cliente 66,Tandil,Buenos Aires,VIP,2026-03-19
+67,Cliente 67,La Plata,Buenos Aires,VIP,2025-02-16
+68,Cliente 68,Necochea,Buenos Aires,Recurrente,2026-08-22
+69,Cliente 69,Tandil,Buenos Aires,Nuevo,2025-04-09
+70,Cliente 70,Mar del Plata,Buenos Aires,VIP,2025-08-16
+71,Cliente 71,Necochea,Buenos Aires,Nuevo,2025-12-20
+72,Cliente 72,Mar del Plata,Buenos Aires,VIP,2025-01-19
+73,Cliente 73,Mar del Plata,Buenos Aires,VIP,2024-08-03
+74,Cliente 74,Bahia Blanca,Buenos Aires,VIP,2024-07-05
+75,Cliente 75,Tandil,Buenos Aires,VIP,2026-04-13
+76,Cliente 76,Pinamar,Buenos Aires,Nuevo,2025-02-06
+77,Cliente 77,CABA,CABA,Nuevo,2025-02-28
+78,Cliente 78,Necochea,Buenos Aires,Recurrente,2025-06-15
+79,Cliente 79,CABA,CABA,Recurrente,2024-07-10
+80,Cliente 80,Pinamar,Buenos Aires,Recurrente,2026-01-29
+81,Cliente 81,Pinamar,Buenos Aires,Nuevo,2025-07-10
+82,Cliente 82,Pinamar,Buenos Aires,Recurrente,2025-08-05
+83,Cliente 83,Bahia Blanca,Buenos Aires,Recurrente,2025-05-17
+84,Cliente 84,Mar del Plata,Buenos Aires,VIP,2026-01-04
+85,Cliente 85,Mar del Plata,Buenos Aires,Nuevo,2026-08-01
+86,Cliente 86,Tandil,Buenos Aires,Recurrente,2025-12-30
+87,Cliente 87,Tandil,Buenos Aires,VIP,2026-08-15
+88,Cliente 88,Mar del Plata,Buenos Aires,Recurrente,2024-11-14
+89,Cliente 89,Mar del Plata,Buenos Aires,VIP,2026-06-14
+90,Cliente 90,Mar del Plata,Buenos Aires,Nuevo,2026-06-11
+91,Cliente 91,Tandil,Buenos Aires,VIP,2025-11-10
+92,Cliente 92,Pinamar,Buenos Aires,Nuevo,2026-01-15
+93,Cliente 93,Tandil,Buenos Aires,VIP,2024-08-12
+94,Cliente 94,Tandil,Buenos Aires,Recurrente,2025-04-25
+95,Cliente 95,CABA,CABA,Nuevo,2025-07-02
+96,Cliente 96,CABA,CABA,VIP,2026-05-15
+97,Cliente 97,Pinamar,Buenos Aires,Nuevo,2025-08-25
+98,Cliente 98,Bahia Blanca,Buenos Aires,Nuevo,2025-05-01
+99,Cliente 99,Necochea,Buenos Aires,Recurrente,2026-06-28
+100,Cliente 100,Pinamar,Buenos Aires,Recurrente,2024-10-30
+101,Cliente 101,Mar del Plata,Buenos Aires,VIP,2025-07-06
+102,Cliente 102,Pinamar,Buenos Aires,Nuevo,2026-05-03
+103,Cliente 103,CABA,CABA,VIP,2026-02-09
+104,Cliente 104,Tandil,Buenos Aires,Nuevo,2026-04-01
+105,Cliente 105,Bahia Blanca,Buenos Aires,VIP,2025-11-10
+106,Cliente 106,Bahia Blanca,Buenos Aires,VIP,2026-06-06
+107,Cliente 107,Bahia Blanca,Buenos Aires,Recurrente,2026-05-14
+108,Cliente 108,Mar del Plata,Buenos Aires,Recurrente,2025-02-15
+109,Cliente 109,Necochea,Buenos Aires,VIP,2026-05-19
+110,Cliente 110,Necochea,Buenos Aires,VIP,2026-03-05
+111,Cliente 111,Bahia Blanca,Buenos Aires,Nuevo,2025-04-17
+112,Cliente 112,CABA,CABA,Nuevo,2026-06-23
+113,Cliente 113,CABA,CABA,Nuevo,2026-08-20
+114,Cliente 114,Bahia Blanca,Buenos Aires,Nuevo,2025-05-14
+115,Cliente 115,La Plata,Buenos Aires,Nuevo,2024-09-08
+116,Cliente 116,Pinamar,Buenos Aires,Recurrente,2024-10-14
+117,Cliente 117,Pinamar,Buenos Aires,Nuevo,2026-03-17
+118,Cliente 118,CABA,CABA,Nuevo,2026-01-12
+119,Cliente 119,Mar del Plata,Buenos Aires,Recurrente,2024-07-30
+120,Cliente 120,Tandil,Buenos Aires,VIP,2024-07-18
+121,Cliente 121,La Plata,Buenos Aires,VIP,2026-07-02
+122,Cliente 122,Tandil,Buenos Aires,Nuevo,2025-03-26
+123,Cliente 123,Necochea,Buenos Aires,Recurrente,2026-03-14
+124,Cliente 124,Mar del Plata,Buenos Aires,Recurrente,2026-06-01
+125,Cliente 125,Necochea,Buenos Aires,VIP,2026-06-13
+126,Cliente 126,Tandil,Buenos Aires,VIP,2024-09-30
+127,Cliente 127,Necochea,Buenos Aires,VIP,2025-07-05
+128,Cliente 128,Mar del Plata,Buenos Aires,Recurrente,2025-12-13
+129,Cliente 129,Tandil,Buenos Aires,Recurrente,2026-07-13
+130,Cliente 130,Tandil,Buenos Aires,VIP,2025-06-19
+131,Cliente 131,Pinamar,Buenos Aires,Recurrente,2025-01-21
+132,Cliente 132,Tandil,Buenos Aires,Nuevo,2025-11-28
+133,Cliente 133,CABA,CABA,Recurrente,2024-08-19
+134,Cliente 134,La Plata,Buenos Aires,VIP,2025-11-24
+135,Cliente 135,Bahia Blanca,Buenos Aires,VIP,2024-10-04
+136,Cliente 136,Pinamar,Buenos Aires,Nuevo,2025-05-11
+137,Cliente 137,La Plata,Buenos Aires,VIP,2026-08-13
+138,Cliente 138,Bahia Blanca,Buenos Aires,Recurrente,2025-01-23
+139,Cliente 139,Mar del Plata,Buenos Aires,VIP,2025-02-18
+140,Cliente 140,CABA,CABA,Recurrente,2025-11-24
+141,Cliente 141,CABA,CABA,Nuevo,2026-06-13
+142,Cliente 142,CABA,CABA,Nuevo,2025-11-04
+143,Cliente 143,CABA,CABA,Nuevo,2025-02-12
+144,Cliente 144,Pinamar,Buenos Aires,Nuevo,2024-12-04
+145,Cliente 145,Necochea,Buenos Aires,Recurrente,2025-02-27
+146,Cliente 146,Mar del Plata,Buenos Aires,Recurrente,2025-02-01
+147,Cliente 147,La Plata,Buenos Aires,Recurrente,2026-05-08
+148,Cliente 148,CABA,CABA,Nuevo,2026-04-26
+149,Cliente 149,Mar del Plata,Buenos Aires,Recurrente,2025-02-02
+150,Cliente 150,CABA,CABA,Nuevo,2025-11-07
+151,Cliente 151,Tandil,Buenos Aires,VIP,2024-08-18
+152,Cliente 152,La Plata,Buenos Aires,VIP,2024-09-18
+153,Cliente 153,Pinamar,Buenos Aires,Nuevo,2025-03-23
+154,Cliente 154,Bahia Blanca,Buenos Aires,Nuevo,2026-07-01
+155,Cliente 155,Mar del Plata,Buenos Aires,Recurrente,2025-06-15
+156,Cliente 156,Necochea,Buenos Aires,Nuevo,2026-07-08
+157,Cliente 157,Mar del Plata,Buenos Aires,Nuevo,2024-06-24
+158,Cliente 158,CABA,CABA,Recurrente,2025-11-27
+159,Cliente 159,CABA,CABA,Recurrente,2025-05-27
+160,Cliente 160,Tandil,Buenos Aires,Recurrente,2025-06-11
+161,Cliente 161,Tandil,Buenos Aires,VIP,2026-04-30
+162,Cliente 162,Mar del Plata,Buenos Aires,Recurrente,2026-03-23
+163,Cliente 163,Tandil,Buenos Aires,VIP,2025-08-09
+164,Cliente 164,Tandil,Buenos Aires,Recurrente,2026-03-24
+165,Cliente 165,Bahia Blanca,Buenos Aires,VIP,2026-07-11
+166,Cliente 166,La Plata,Buenos Aires,Nuevo,2026-07-13
+167,Cliente 167,La Plata,Buenos Aires,VIP,2024-09-23
+168,Cliente 168,CABA,CABA,Recurrente,2026-05-09
+169,Cliente 169,La Plata,Buenos Aires,Recurrente,2025-07-02
+170,Cliente 170,Tandil,Buenos Aires,Recurrente,2026-03-17
+171,Cliente 171,CABA,CABA,VIP,2026-02-22
+172,Cliente 172,Bahia Blanca,Buenos Aires,VIP,2026-02-20
+173,Cliente 173,Pinamar,Buenos Aires,Nuevo,2025-06-27
+174,Cliente 174,Necochea,Buenos Aires,Recurrente,2024-07-31
+175,Cliente 175,Necochea,Buenos Aires,VIP,2025-11-22
+176,Cliente 176,CABA,CABA,Recurrente,2026-05-04
+177,Cliente 177,Bahia Blanca,Buenos Aires,VIP,2025-04-28
+178,Cliente 178,CABA,CABA,VIP,2025-05-08
+179,Cliente 179,La Plata,Buenos Aires,Nuevo,2026-01-01
+180,Cliente 180,CABA,CABA,VIP,2024-10-16
+181,Cliente 181,CABA,CABA,Nuevo,2025-09-20
+182,Cliente 182,La Plata,Buenos Aires,VIP,2025-11-10
+183,Cliente 183,La Plata,Buenos Aires,Recurrente,2025-03-19
+184,Cliente 184,Bahia Blanca,Buenos Aires,Recurrente,2025-02-19
+185,Cliente 185,La Plata,Buenos Aires,VIP,2026-04-26
+186,Cliente 186,La Plata,Buenos Aires,VIP,2025-01-05
+187,Cliente 187,La Plata,Buenos Aires,VIP,2026-05-03
+188,Cliente 188,Tandil,Buenos Aires,Nuevo,2025-09-03
+189,Cliente 189,Pinamar,Buenos Aires,Nuevo,2025-06-02
+190,Cliente 190,Tandil,Buenos Aires,Recurrente,2026-04-26
+191,Cliente 191,Bahia Blanca,Buenos Aires,Recurrente,2026-02-09
+192,Cliente 192,La Plata,Buenos Aires,VIP,2024-08-27
+193,Cliente 193,Bahia Blanca,Buenos Aires,VIP,2025-03-08
+194,Cliente 194,Necochea,Buenos Aires,Recurrente,2024-09-18
+195,Cliente 195,Pinamar,Buenos Aires,Recurrente,2024-07-29
+196,Cliente 196,Pinamar,Buenos Aires,VIP,2025-08-15
+197,Cliente 197,Bahia Blanca,Buenos Aires,VIP,2024-10-11
+198,Cliente 198,La Plata,Buenos Aires,Recurrente,2025-10-05
+199,Cliente 199,Pinamar,Buenos Aires,VIP,2024-08-15
+200,Cliente 200,La Plata,Buenos Aires,Recurrente,2025-10-10
+201,Cliente 201,Pinamar,Buenos Aires,Nuevo,2025-09-22
+202,Cliente 202,Bahia Blanca,Buenos Aires,Recurrente,2025-10-24
+203,Cliente 203,Tandil,Buenos Aires,VIP,2026-02-07
+204,Cliente 204,Bahia Blanca,Buenos Aires,Recurrente,2025-07-30
+205,Cliente 205,Pinamar,Buenos Aires,Recurrente,2026-02-25
+206,Cliente 206,Tandil,Buenos Aires,Recurrente,2025-10-18
+207,Cliente 207,Bahia Blanca,Buenos Aires,Recurrente,2026-08-22
+208,Cliente 208,La Plata,Buenos Aires,Nuevo,2026-01-19
+209,Cliente 209,Bahia Blanca,Buenos Aires,Recurrente,2024-12-09
+210,Cliente 210,Pinamar,Buenos Aires,Nuevo,2025-05-03
+211,Cliente 211,Bahia Blanca,Buenos Aires,Nuevo,2024-09-30
+212,Cliente 212,CABA,CABA,Recurrente,2025-04-25
+213,Cliente 213,Necochea,Buenos Aires,Recurrente,2026-03-02
+214,Cliente 214,Pinamar,Buenos Aires,VIP,2025-11-05
+215,Cliente 215,Tandil,Buenos Aires,Recurrente,2024-11-12
+216,Cliente 216,Tandil,Buenos Aires,Nuevo,2026-05-19
+217,Cliente 217,Necochea,Buenos Aires,VIP,2024-10-03
+218,Cliente 218,La Plata,Buenos Aires,VIP,2026-01-31
+219,Cliente 219,CABA,CABA,VIP,2026-07-06
+220,Cliente 220,CABA,CABA,Nuevo,2024-12-05
+221,Cliente 221,Necochea,Buenos Aires,VIP,2025-05-13
+222,Cliente 222,Bahia Blanca,Buenos Aires,Recurrente,2025-01-10
+223,Cliente 223,CABA,CABA,Recurrente,2024-09-08
+224,Cliente 224,Bahia Blanca,Buenos Aires,Nuevo,2025-07-09
+225,Cliente 225,CABA,CABA,VIP,2024-10-20
+226,Cliente 226,Pinamar,Buenos Aires,VIP,2024-07-15
+227,Cliente 227,Necochea,Buenos Aires,VIP,2025-06-13
+228,Cliente 228,CABA,CABA,VIP,2024-09-09
+229,Cliente 229,Tandil,Buenos Aires,Nuevo,2026-07-02
+230,Cliente 230,Tandil,Buenos Aires,VIP,2026-04-20
+231,Cliente 231,Bahia Blanca,Buenos Aires,VIP,2025-05-04
+232,Cliente 232,Pinamar,Buenos Aires,Recurrente,2025-01-27
+233,Cliente 233,Tandil,Buenos Aires,Nuevo,2024-07-10
+234,Cliente 234,Bahia Blanca,Buenos Aires,Recurrente,2024-08-16
+235,Cliente 235,Tandil,Buenos Aires,Nuevo,2025-02-07
+236,Cliente 236,Bahia Blanca,Buenos Aires,VIP,2024-07-22
+237,Cliente 237,Necochea,Buenos Aires,Nuevo,2025-05-19
+238,Cliente 238,La Plata,Buenos Aires,VIP,2024-11-08
+239,Cliente 239,La Plata,Buenos Aires,Recurrente,2025-04-13
+240,Cliente 240,Pinamar,Buenos Aires,VIP,2025-11-14
+241,Cliente 241,Bahia Blanca,Buenos Aires,VIP,2024-08-22
+242,Cliente 242,La Plata,Buenos Aires,VIP,2025-11-17
+243,Cliente 243,La Plata,Buenos Aires,Nuevo,2025-02-15
+244,Cliente 244,Mar del Plata,Buenos Aires,VIP,2026-03-21
+245,Cliente 245,CABA,CABA,Nuevo,2024-09-11
+246,Cliente 246,CABA,CABA,Recurrente,2026-01-15
+247,Cliente 247,Mar del Plata,Buenos Aires,Nuevo,2025-07-01
+248,Cliente 248,La Plata,Buenos Aires,Recurrente,2025-05-02
+249,Cliente 249,Bahia Blanca,Buenos Aires,VIP,2026-01-23
+250,Cliente 250,Necochea,Buenos Aires,Nuevo,2025-07-20
+251,Cliente 251,Necochea,Buenos Aires,Recurrente,2024-09-09
+252,Cliente 252,Mar del Plata,Buenos Aires,Recurrente,2025-07-29
+253,Cliente 253,Bahia Blanca,Buenos Aires,VIP,2025-08-27
+254,Cliente 254,La Plata,Buenos Aires,Nuevo,2025-06-19
+255,Cliente 255,Tandil,Buenos Aires,Recurrente,2024-07-31
+256,Cliente 256,Tandil,Buenos Aires,Recurrente,2026-01-09
+257,Cliente 257,Bahia Blanca,Buenos Aires,VIP,2025-11-16
+258,Cliente 258,Bahia Blanca,Buenos Aires,Nuevo,2026-07-24
+259,Cliente 259,Bahia Blanca,Buenos Aires,Nuevo,2024-10-07
+260,Cliente 260,Pinamar,Buenos Aires,Nuevo,2024-08-11
+261,Cliente 261,CABA,CABA,Nuevo,2026-04-14
+262,Cliente 262,Tandil,Buenos Aires,Recurrente,2026-07-26
+263,Cliente 263,Bahia Blanca,Buenos Aires,Recurrente,2025-01-22
+264,Cliente 264,Pinamar,Buenos Aires,VIP,2026-05-29
+265,Cliente 265,Pinamar,Buenos Aires,Nuevo,2026-04-06
+266,Cliente 266,Necochea,Buenos Aires,Nuevo,2026-02-17
+267,Cliente 267,Mar del Plata,Buenos Aires,Nuevo,2025-07-30
+268,Cliente 268,La Plata,Buenos Aires,VIP,2025-05-14
+269,Cliente 269,La Plata,Buenos Aires,Nuevo,2024-07-04
+270,Cliente 270,Bahia Blanca,Buenos Aires,Nuevo,2024-07-13
+271,Cliente 271,Necochea,Buenos Aires,Nuevo,2025-12-07
+272,Cliente 272,Necochea,Buenos Aires,VIP,2025-04-28
+273,Cliente 273,Mar del Plata,Buenos Aires,Recurrente,2025-02-16
+274,Cliente 274,Mar del Plata,Buenos Aires,Nuevo,2026-01-05
+275,Cliente 275,Pinamar,Buenos Aires,VIP,2024-10-24
+276,Cliente 276,Mar del Plata,Buenos Aires,VIP,2025-12-12
+277,Cliente 277,CABA,CABA,VIP,2024-11-24
+278,Cliente 278,CABA,CABA,VIP,2026-04-15
+279,Cliente 279,Bahia Blanca,Buenos Aires,Recurrente,2026-04-27
+280,Cliente 280,Tandil,Buenos Aires,VIP,2025-05-03
+281,Cliente 281,Pinamar,Buenos Aires,Nuevo,2024-06-28
+282,Cliente 282,La Plata,Buenos Aires,VIP,2024-12-10
+283,Cliente 283,Tandil,Buenos Aires,Recurrente,2024-08-17
+284,Cliente 284,Mar del Plata,Buenos Aires,VIP,2025-10-08
+285,Cliente 285,Mar del Plata,Buenos Aires,Recurrente,2026-07-27
+286,Cliente 286,La Plata,Buenos Aires,Recurrente,2024-09-28
+287,Cliente 287,Bahia Blanca,Buenos Aires,Nuevo,2024-08-20
+288,Cliente 288,CABA,CABA,VIP,2024-12-24
+289,Cliente 289,Pinamar,Buenos Aires,Recurrente,2025-12-17
+290,Cliente 290,Mar del Plata,Buenos Aires,Recurrente,2025-10-18
+291,Cliente 291,Necochea,Buenos Aires,Recurrente,2024-12-16
+292,Cliente 292,Necochea,Buenos Aires,VIP,2025-01-20
+293,Cliente 293,Necochea,Buenos Aires,VIP,2025-09-01
+294,Cliente 294,Tandil,Buenos Aires,Nuevo,2024-10-14
+295,Cliente 295,La Plata,Buenos Aires,VIP,2025-03-22
+296,Cliente 296,Pinamar,Buenos Aires,Nuevo,2026-08-10
+297,Cliente 297,Necochea,Buenos Aires,Nuevo,2025-04-08
+298,Cliente 298,Mar del Plata,Buenos Aires,Nuevo,2025-08-17
+299,Cliente 299,Pinamar,Buenos Aires,Nuevo,2024-08-28
+300,Cliente 300,CABA,CABA,Nuevo,2026-02-23
+301,Cliente 301,Pinamar,Buenos Aires,Recurrente,2024-10-25
+302,Cliente 302,La Plata,Buenos Aires,Recurrente,2025-02-17
+303,Cliente 303,Necochea,Buenos Aires,Nuevo,2025-05-03
+304,Cliente 304,Bahia Blanca,Buenos Aires,Recurrente,2024-12-24
+305,Cliente 305,La Plata,Buenos Aires,Nuevo,2025-12-14
+306,Cliente 306,Necochea,Buenos Aires,VIP,2025-11-10
+307,Cliente 307,Bahia Blanca,Buenos Aires,VIP,2024-07-15
+308,Cliente 308,Bahia Blanca,Buenos Aires,Recurrente,2024-12-06
+309,Cliente 309,Pinamar,Buenos Aires,Nuevo,2025-09-12
+310,Cliente 310,Mar del Plata,Buenos Aires,Nuevo,2025-09-24
+311,Cliente 311,CABA,CABA,Nuevo,2026-01-17
+312,Cliente 312,La Plata,Buenos Aires,Nuevo,2025-09-08
+313,Cliente 313,La Plata,Buenos Aires,Recurrente,2024-09-03
+314,Cliente 314,La Plata,Buenos Aires,Recurrente,2026-08-12
+315,Cliente 315,Tandil,Buenos Aires,VIP,2026-05-27
+316,Cliente 316,CABA,CABA,Recurrente,2025-07-02
+317,Cliente 317,Bahia Blanca,Buenos Aires,Recurrente,2024-07-07
+318,Cliente 318,CABA,CABA,Recurrente,2025-04-22
+319,Cliente 319,Pinamar,Buenos Aires,Recurrente,2025-04-07
+320,Cliente 320,Bahia Blanca,Buenos Aires,VIP,2026-05-19
+321,Cliente 321,La Plata,Buenos Aires,VIP,2025-07-04
+322,Cliente 322,Pinamar,Buenos Aires,VIP,2025-10-13
+323,Cliente 323,Pinamar,Buenos Aires,Recurrente,2025-08-10
+324,Cliente 324,Bahia Blanca,Buenos Aires,Recurrente,2025-02-25
+325,Cliente 325,La Plata,Buenos Aires,Nuevo,2024-07-20
+326,Cliente 326,Tandil,Buenos Aires,Nuevo,2025-08-27
+327,Cliente 327,Pinamar,Buenos Aires,Nuevo,2025-11-18
+328,Cliente 328,La Plata,Buenos Aires,Nuevo,2025-12-29
+329,Cliente 329,Mar del Plata,Buenos Aires,Recurrente,2026-02-06
+330,Cliente 330,La Plata,Buenos Aires,VIP,2024-07-23
+331,Cliente 331,Tandil,Buenos Aires,Recurrente,2026-02-14
+332,Cliente 332,CABA,CABA,VIP,2024-07-27
+333,Cliente 333,Bahia Blanca,Buenos Aires,Nuevo,2024-08-11
+334,Cliente 334,Tandil,Buenos Aires,Recurrente,2024-12-19
+335,Cliente 335,La Plata,Buenos Aires,VIP,2026-02-05
+336,Cliente 336,La Plata,Buenos Aires,VIP,2025-08-18
+337,Cliente 337,CABA,CABA,Nuevo,2026-08-08
+338,Cliente 338,Pinamar,Buenos Aires,Recurrente,2026-04-15
+339,Cliente 339,La Plata,Buenos Aires,VIP,2026-06-28
+340,Cliente 340,Tandil,Buenos Aires,Nuevo,2024-09-07
+341,Cliente 341,CABA,CABA,Recurrente,2024-07-13
+342,Cliente 342,Bahia Blanca,Buenos Aires,VIP,2026-08-10
+343,Cliente 343,Tandil,Buenos Aires,Nuevo,2025-04-29
+344,Cliente 344,Bahia Blanca,Buenos Aires,Nuevo,2025-09-08
+345,Cliente 345,CABA,CABA,VIP,2025-12-07
+346,Cliente 346,Necochea,Buenos Aires,Nuevo,2026-04-28
+347,Cliente 347,Necochea,Buenos Aires,VIP,2025-07-08
+348,Cliente 348,Bahia Blanca,Buenos Aires,VIP,2025-01-09
+349,Cliente 349,Pinamar,Buenos Aires,Recurrente,2026-06-29
+350,Cliente 350,CABA,CABA,VIP,2025-01-23
+351,Cliente 351,La Plata,Buenos Aires,VIP,2025-12-11
+352,Cliente 352,Mar del Plata,Buenos Aires,Recurrente,2024-07-01
+353,Cliente 353,Bahia Blanca,Buenos Aires,Recurrente,2024-12-20
+354,Cliente 354,Necochea,Buenos Aires,Recurrente,2026-01-03
+355,Cliente 355,Necochea,Buenos Aires,Recurrente,2025-07-29
+356,Cliente 356,Bahia Blanca,Buenos Aires,Nuevo,2025-10-22
+357,Cliente 357,Necochea,Buenos Aires,Recurrente,2025-06-09
+358,Cliente 358,La Plata,Buenos Aires,Recurrente,2024-11-25
+359,Cliente 359,Mar del Plata,Buenos Aires,Recurrente,2024-07-26
+360,Cliente 360,Mar del Plata,Buenos Aires,VIP,2024-11-20
+361,Cliente 361,CABA,CABA,Nuevo,2024-10-15
+362,Cliente 362,Mar del Plata,Buenos Aires,VIP,2025-12-20
+363,Cliente 363,CABA,CABA,Recurrente,2026-06-07
+364,Cliente 364,CABA,CABA,VIP,2025-06-30
+365,Cliente 365,Bahia Blanca,Buenos Aires,Recurrente,2024-12-22
+366,Cliente 366,Bahia Blanca,Buenos Aires,Nuevo,2026-07-20
+367,Cliente 367,CABA,CABA,Nuevo,2024-08-29
+368,Cliente 368,La Plata,Buenos Aires,Recurrente,2025-05-15
+369,Cliente 369,Mar del Plata,Buenos Aires,Recurrente,2025-12-26
+370,Cliente 370,La Plata,Buenos Aires,Recurrente,2024-12-27
+371,Cliente 371,Pinamar,Buenos Aires,VIP,2025-06-13
+372,Cliente 372,Mar del Plata,Buenos Aires,Recurrente,2026-01-04
+373,Cliente 373,Pinamar,Buenos Aires,VIP,2025-11-23
+374,Cliente 374,Necochea,Buenos Aires,VIP,2026-06-10
+375,Cliente 375,Mar del Plata,Buenos Aires,VIP,2025-10-12
+376,Cliente 376,Tandil,Buenos Aires,Recurrente,2025-01-17
+377,Cliente 377,La Plata,Buenos Aires,Nuevo,2026-04-17
+378,Cliente 378,Bahia Blanca,Buenos Aires,Recurrente,2025-10-15
+379,Cliente 379,Pinamar,Buenos Aires,Nuevo,2025-11-17
+380,Cliente 380,Tandil,Buenos Aires,Recurrente,2025-04-04
+381,Cliente 381,Bahia Blanca,Buenos Aires,VIP,2024-12-18
+382,Cliente 382,Mar del Plata,Buenos Aires,Nuevo,2024-07-31
+383,Cliente 383,La Plata,Buenos Aires,Recurrente,2025-12-09
+384,Cliente 384,Mar del Plata,Buenos Aires,VIP,2025-12-31
+385,Cliente 385,Pinamar,Buenos Aires,Recurrente,2024-12-29
+386,Cliente 386,Mar del Plata,Buenos Aires,Recurrente,2025-11-20
+387,Cliente 387,Tandil,Buenos Aires,VIP,2024-07-02
+388,Cliente 388,Necochea,Buenos Aires,VIP,2025-04-28
+389,Cliente 389,Tandil,Buenos Aires,Recurrente,2025-05-27
+390,Cliente 390,La Plata,Buenos Aires,VIP,2024-12-31
+391,Cliente 391,Bahia Blanca,Buenos Aires,Recurrente,2025-04-06
+392,Cliente 392,Mar del Plata,Buenos Aires,Nuevo,2025-08-31
+393,Cliente 393,Bahia Blanca,Buenos Aires,Nuevo,2025-09-28
+394,Cliente 394,Pinamar,Buenos Aires,VIP,2026-03-11
+395,Cliente 395,La Plata,Buenos Aires,Nuevo,2024-09-11
+396,Cliente 396,Bahia Blanca,Buenos Aires,Nuevo,2024-10-13
+397,Cliente 397,Bahia Blanca,Buenos Aires,Recurrente,2026-07-16
+398,Cliente 398,Bahia Blanca,Buenos Aires,VIP,2025-10-04
+399,Cliente 399,La Plata,Buenos Aires,Nuevo,2026-04-26
+400,Cliente 400,Necochea,Buenos Aires,Nuevo,2025-03-14
+401,Cliente 401,Necochea,Buenos Aires,VIP,2024-10-18
+402,Cliente 402,Necochea,Buenos Aires,Recurrente,2025-05-06
+403,Cliente 403,Bahia Blanca,Buenos Aires,VIP,2026-02-11
+404,Cliente 404,Tandil,Buenos Aires,Nuevo,2024-11-23
+405,Cliente 405,Necochea,Buenos Aires,Nuevo,2024-11-20
+406,Cliente 406,Bahia Blanca,Buenos Aires,VIP,2026-01-26
+407,Cliente 407,La Plata,Buenos Aires,Recurrente,2026-04-10
+408,Cliente 408,La Plata,Buenos Aires,Nuevo,2024-09-06
+409,Cliente 409,Bahia Blanca,Buenos Aires,VIP,2026-07-24
+410,Cliente 410,Pinamar,Buenos Aires,Recurrente,2025-12-20
+411,Cliente 411,Pinamar,Buenos Aires,VIP,2025-10-08
+412,Cliente 412,Tandil,Buenos Aires,VIP,2025-02-03
+413,Cliente 413,Bahia Blanca,Buenos Aires,VIP,2026-01-04
+414,Cliente 414,Necochea,Buenos Aires,VIP,2025-05-07
+415,Cliente 415,Mar del Plata,Buenos Aires,Recurrente,2026-03-18
+416,Cliente 416,Bahia Blanca,Buenos Aires,Recurrente,2025-10-28
+417,Cliente 417,Tandil,Buenos Aires,Recurrente,2025-11-16
+418,Cliente 418,Bahia Blanca,Buenos Aires,Nuevo,2025-04-26
+419,Cliente 419,CABA,CABA,Nuevo,2025-02-04
+420,Cliente 420,CABA,CABA,Nuevo,2026-02-08
+421,Cliente 421,Tandil,Buenos Aires,Recurrente,2024-07-19
+422,Cliente 422,CABA,CABA,VIP,2025-11-13
+423,Cliente 423,Necochea,Buenos Aires,Nuevo,2025-09-08
+424,Cliente 424,Necochea,Buenos Aires,Recurrente,2025-11-22
+425,Cliente 425,Necochea,Buenos Aires,VIP,2025-11-06
+426,Cliente 426,Pinamar,Buenos Aires,Nuevo,2024-12-29
+427,Cliente 427,Tandil,Buenos Aires,Recurrente,2025-04-08
+428,Cliente 428,Necochea,Buenos Aires,VIP,2025-05-22
+429,Cliente 429,Tandil,Buenos Aires,Nuevo,2025-09-03
+430,Cliente 430,La Plata,Buenos Aires,Recurrente,2024-07-02
+431,Cliente 431,Tandil,Buenos Aires,Nuevo,2025-05-13
+432,Cliente 432,La Plata,Buenos Aires,VIP,2024-09-07
+433,Cliente 433,CABA,CABA,Recurrente,2025-07-26
+434,Cliente 434,CABA,CABA,Nuevo,2026-07-09
+435,Cliente 435,La Plata,Buenos Aires,Recurrente,2025-04-25
+436,Cliente 436,Pinamar,Buenos Aires,Nuevo,2025-07-23
+437,Cliente 437,Pinamar,Buenos Aires,Recurrente,2026-03-20
+438,Cliente 438,Bahia Blanca,Buenos Aires,VIP,2026-04-15
+439,Cliente 439,Tandil,Buenos Aires,Recurrente,2025-09-17
+440,Cliente 440,Necochea,Buenos Aires,VIP,2025-05-29
+441,Cliente 441,Mar del Plata,Buenos Aires,Recurrente,2025-05-12
+442,Cliente 442,Mar del Plata,Buenos Aires,Recurrente,2026-03-28
+443,Cliente 443,Bahia Blanca,Buenos Aires,Recurrente,2026-03-17
+444,Cliente 444,Mar del Plata,Buenos Aires,Nuevo,2025-11-24
+445,Cliente 445,La Plata,Buenos Aires,Recurrente,2024-09-12
+446,Cliente 446,Bahia Blanca,Buenos Aires,Recurrente,2026-06-01
+447,Cliente 447,Necochea,Buenos Aires,Nuevo,2024-10-01
+448,Cliente 448,Necochea,Buenos Aires,Recurrente,2025-07-29
+449,Cliente 449,La Plata,Buenos Aires,Recurrente,2024-08-17
+450,Cliente 450,Necochea,Buenos Aires,Nuevo,2025-02-14
+451,Cliente 451,Mar del Plata,Buenos Aires,Recurrente,2026-06-13
+452,Cliente 452,CABA,CABA,Recurrente,2024-09-21
+453,Cliente 453,La Plata,Buenos Aires,VIP,2024-07-19
+454,Cliente 454,Mar del Plata,Buenos Aires,Nuevo,2026-05-14
+455,Cliente 455,Necochea,Buenos Aires,Recurrente,2024-09-01
+456,Cliente 456,Necochea,Buenos Aires,VIP,2025-05-25
+457,Cliente 457,CABA,CABA,Recurrente,2025-10-20
+458,Cliente 458,Mar del Plata,Buenos Aires,VIP,2025-09-24
+459,Cliente 459,Necochea,Buenos Aires,VIP,2025-10-26
+460,Cliente 460,La Plata,Buenos Aires,Nuevo,2025-06-07
+461,Cliente 461,CABA,CABA,VIP,2025-02-25
+462,Cliente 462,Bahia Blanca,Buenos Aires,Recurrente,2024-09-23
+463,Cliente 463,Necochea,Buenos Aires,VIP,2026-03-01
+464,Cliente 464,CABA,CABA,VIP,2024-12-06
+465,Cliente 465,Necochea,Buenos Aires,Nuevo,2024-11-26
+466,Cliente 466,Pinamar,Buenos Aires,VIP,2025-03-31
+467,Cliente 467,Tandil,Buenos Aires,VIP,2025-12-28
+468,Cliente 468,Bahia Blanca,Buenos Aires,Recurrente,2025-12-05
+469,Cliente 469,Bahia Blanca,Buenos Aires,Nuevo,2024-10-09
+470,Cliente 470,Mar del Plata,Buenos Aires,Nuevo,2025-11-01
+471,Cliente 471,Pinamar,Buenos Aires,Recurrente,2026-03-14
+472,Cliente 472,Mar del Plata,Buenos Aires,Nuevo,2025-09-03
+473,Cliente 473,Tandil,Buenos Aires,Nuevo,2024-11-06
+474,Cliente 474,Bahia Blanca,Buenos Aires,Recurrente,2025-12-09
+475,Cliente 475,Bahia Blanca,Buenos Aires,Nuevo,2026-01-31
+476,Cliente 476,Bahia Blanca,Buenos Aires,Nuevo,2026-05-05
+477,Cliente 477,CABA,CABA,Nuevo,2025-01-14
+478,Cliente 478,La Plata,Buenos Aires,Recurrente,2025-10-24
+479,Cliente 479,Pinamar,Buenos Aires,Nuevo,2026-07-31
+480,Cliente 480,Necochea,Buenos Aires,Recurrente,2025-07-13
+481,Cliente 481,La Plata,Buenos Aires,VIP,2025-01-20
+482,Cliente 482,Necochea,Buenos Aires,Recurrente,2024-07-21
+483,Cliente 483,Mar del Plata,Buenos Aires,Recurrente,2024-07-20
+484,Cliente 484,Bahia Blanca,Buenos Aires,Nuevo,2025-12-30
+485,Cliente 485,Tandil,Buenos Aires,Nuevo,2026-01-10
+486,Cliente 486,Pinamar,Buenos Aires,VIP,2024-11-25
+487,Cliente 487,La Plata,Buenos Aires,Recurrente,2024-07-10
+488,Cliente 488,Pinamar,Buenos Aires,Recurrente,2024-09-24
+489,Cliente 489,Necochea,Buenos Aires,VIP,2024-11-17
+490,Cliente 490,Mar del Plata,Buenos Aires,Recurrente,2024-10-30
+491,Cliente 491,Mar del Plata,Buenos Aires,Nuevo,2025-05-28
+492,Cliente 492,Mar del Plata,Buenos Aires,Recurrente,2025-08-14
+493,Cliente 493,Pinamar,Buenos Aires,VIP,2026-05-22
+494,Cliente 494,La Plata,Buenos Aires,Nuevo,2024-07-18
+495,Cliente 495,Bahia Blanca,Buenos Aires,VIP,2026-01-29
+496,Cliente 496,CABA,CABA,Recurrente,2025-08-13
+497,Cliente 497,Tandil,Buenos Aires,Recurrente,2025-11-16
+498,Cliente 498,Necochea,Buenos Aires,VIP,2025-12-02
+499,Cliente 499,Necochea,Buenos Aires,Nuevo,2025-10-24
+500,Cliente 500,Pinamar,Buenos Aires,Nuevo,2026-04-27

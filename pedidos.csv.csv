@@ -1,0 +1,1201 @@
+pedido_id,cliente_id,fecha,estado,canal,monto_total
+1,488,2026-08-30,Cancelado,Instagram,110617
+2,168,2026-07-01,En Proceso,Web,116048
+3,389,2026-07-28,En Proceso,Instagram,394058
+4,57,2026-06-05,Despachado,Web,346655
+5,479,2026-08-30,Entregado,Instagram,51864
+6,84,2026-06-15,Cancelado,Marketplace,358431
+7,98,2026-07-05,Cancelado,Tienda MDP,148132
+8,227,2026-06-05,Entregado,Web,284746
+9,112,2026-08-03,En Proceso,Tienda MDP,381989
+10,85,2026-08-05,Despachado,Tienda MDP,79274
+11,217,2026-06-16,Despachado,Web,365088
+12,381,2026-07-17,Entregado,Tienda MDP,255511
+13,300,2026-08-10,Cancelado,Tienda MDP,149590
+14,115,2026-07-04,Cancelado,Web,158336
+15,393,2026-08-21,En Proceso,Web,145963
+16,121,2026-06-03,En Proceso,Marketplace,209220
+17,497,2026-06-17,Cancelado,Marketplace,26397
+18,412,2026-06-11,En Proceso,Web,370520
+19,355,2026-08-08,Despachado,Tienda MDP,211800
+20,436,2026-07-15,Despachado,Tienda MDP,310349
+21,224,2026-08-04,Entregado,Web,47912
+22,429,2026-06-16,Entregado,Instagram,223865
+23,101,2026-08-08,Entregado,Tienda MDP,200914
+24,373,2026-06-22,Cancelado,Tienda MDP,345655
+25,446,2026-08-16,En Proceso,Marketplace,52013
+26,478,2026-07-30,Entregado,Web,162908
+27,436,2026-08-06,Entregado,Marketplace,234478
+28,341,2026-08-27,Despachado,Marketplace,83394
+29,65,2026-08-01,Cancelado,Marketplace,298563
+30,380,2026-08-13,En Proceso,Instagram,350721
+31,330,2026-08-15,En Proceso,Tienda MDP,123044
+32,399,2026-07-01,Despachado,Marketplace,56722
+33,48,2026-08-02,Cancelado,Instagram,226158
+34,121,2026-08-31,Despachado,Marketplace,188000
+35,275,2026-08-10,En Proceso,Web,399346
+36,271,2026-06-16,Despachado,Tienda MDP,91770
+37,246,2026-07-27,Cancelado,Instagram,397906
+38,491,2026-06-18,En Proceso,Tienda MDP,148962
+39,44,2026-06-15,En Proceso,Marketplace,90773
+40,162,2026-08-29,Despachado,Marketplace,60415
+41,127,2026-08-14,Entregado,Instagram,213486
+42,218,2026-08-22,Entregado,Marketplace,136120
+43,151,2026-08-01,Cancelado,Instagram,56372
+44,108,2026-06-30,Cancelado,Marketplace,87908
+45,161,2026-06-26,En Proceso,Web,230661
+46,183,2026-07-03,Despachado,Instagram,102263
+47,4,2026-07-10,Entregado,Tienda MDP,248668
+48,224,2026-06-24,En Proceso,Marketplace,175978
+49,395,2026-06-10,Cancelado,Instagram,137293
+50,1,2026-06-08,En Proceso,Marketplace,93665
+51,449,2026-07-27,Entregado,Tienda MDP,260026
+52,425,2026-06-24,Entregado,Tienda MDP,83449
+53,75,2026-06-25,Entregado,Web,66183
+54,125,2026-08-01,Despachado,Marketplace,114348
+55,356,2026-07-26,Despachado,Web,31987
+56,433,2026-08-30,En Proceso,Tienda MDP,351902
+57,197,2026-08-18,En Proceso,Web,299939
+58,94,2026-06-25,Cancelado,Marketplace,112318
+59,256,2026-06-05,Despachado,Tienda MDP,183411
+60,313,2026-08-05,Despachado,Marketplace,93379
+61,411,2026-06-17,Cancelado,Instagram,386986
+62,167,2026-06-12,Cancelado,Marketplace,370987
+63,370,2026-06-05,Cancelado,Marketplace,281113
+64,490,2026-08-26,Despachado,Web,389182
+65,421,2026-08-18,Despachado,Instagram,135287
+66,106,2026-07-21,Entregado,Instagram,200315
+67,54,2026-08-25,Cancelado,Tienda MDP,42102
+68,113,2026-08-09,Cancelado,Tienda MDP,154201
+69,212,2026-07-09,Cancelado,Web,21679
+70,160,2026-08-13,En Proceso,Instagram,368051
+71,42,2026-06-04,En Proceso,Instagram,232322
+72,498,2026-08-25,En Proceso,Marketplace,264136
+73,393,2026-08-05,Despachado,Tienda MDP,113921
+74,483,2026-06-14,Despachado,Web,209333
+75,106,2026-06-09,Entregado,Instagram,110065
+76,311,2026-08-25,Entregado,Tienda MDP,181550
+77,340,2026-07-19,En Proceso,Tienda MDP,180651
+78,275,2026-06-24,Despachado,Web,176936
+79,148,2026-07-09,Despachado,Web,361669
+80,33,2026-08-11,Entregado,Marketplace,63698
+81,483,2026-07-06,Entregado,Tienda MDP,41753
+82,273,2026-08-07,Despachado,Web,85773
+83,146,2026-07-06,En Proceso,Instagram,161822
+84,320,2026-06-26,Cancelado,Tienda MDP,321905
+85,235,2026-07-25,Cancelado,Web,107591
+86,473,2026-07-07,Despachado,Instagram,46454
+87,174,2026-07-09,Entregado,Tienda MDP,271122
+88,69,2026-08-22,En Proceso,Marketplace,213544
+89,166,2026-08-12,En Proceso,Web,79743
+90,328,2026-08-28,Cancelado,Marketplace,152372
+91,98,2026-08-07,En Proceso,Tienda MDP,266719
+92,147,2026-08-11,Cancelado,Marketplace,379434
+93,253,2026-08-20,En Proceso,Instagram,385254
+94,183,2026-08-05,Despachado,Web,326404
+95,316,2026-08-24,Entregado,Instagram,309712
+96,72,2026-08-10,En Proceso,Instagram,54993
+97,141,2026-07-09,Entregado,Web,112062
+98,492,2026-08-05,En Proceso,Tienda MDP,372205
+99,322,2026-07-19,Entregado,Tienda MDP,205770
+100,40,2026-07-28,Entregado,Instagram,47671
+101,362,2026-07-29,Cancelado,Tienda MDP,50462
+102,110,2026-08-08,Cancelado,Tienda MDP,43275
+103,331,2026-08-30,Entregado,Tienda MDP,81322
+104,126,2026-07-16,Entregado,Tienda MDP,269704
+105,415,2026-07-21,En Proceso,Tienda MDP,187728
+106,25,2026-06-20,Despachado,Tienda MDP,290892
+107,64,2026-07-07,Entregado,Web,28291
+108,283,2026-08-20,Entregado,Marketplace,99909
+109,348,2026-07-29,Despachado,Instagram,47483
+110,27,2026-07-02,Entregado,Tienda MDP,28389
+111,441,2026-07-22,Cancelado,Tienda MDP,290257
+112,389,2026-06-13,En Proceso,Web,229135
+113,240,2026-08-11,Despachado,Instagram,182343
+114,48,2026-06-19,Despachado,Instagram,141945
+115,57,2026-08-18,Despachado,Marketplace,282081
+116,104,2026-07-21,En Proceso,Marketplace,88909
+117,182,2026-06-16,Entregado,Instagram,62380
+118,239,2026-08-08,En Proceso,Marketplace,185214
+119,369,2026-08-04,Entregado,Marketplace,35021
+120,95,2026-07-26,Despachado,Instagram,255261
+121,268,2026-07-09,En Proceso,Marketplace,286023
+122,248,2026-07-01,Despachado,Marketplace,364836
+123,194,2026-06-13,En Proceso,Marketplace,143615
+124,104,2026-06-12,Cancelado,Marketplace,320431
+125,477,2026-08-31,Despachado,Web,269373
+126,388,2026-06-26,Despachado,Marketplace,51511
+127,2,2026-07-30,Entregado,Marketplace,67937
+128,204,2026-08-08,Cancelado,Marketplace,115555
+129,458,2026-07-08,Cancelado,Web,98797
+130,467,2026-08-14,Entregado,Marketplace,192422
+131,265,2026-06-27,Despachado,Instagram,181031
+132,466,2026-06-30,Entregado,Marketplace,155148
+133,72,2026-07-21,En Proceso,Web,69624
+134,63,2026-07-01,Despachado,Web,139936
+135,66,2026-07-21,Entregado,Marketplace,243347
+136,61,2026-07-10,Entregado,Web,377711
+137,281,2026-06-27,Cancelado,Marketplace,367624
+138,472,2026-08-13,En Proceso,Marketplace,205699
+139,297,2026-07-16,Despachado,Instagram,159236
+140,266,2026-06-11,Entregado,Instagram,174419
+141,26,2026-06-28,En Proceso,Instagram,102607
+142,174,2026-07-16,Despachado,Tienda MDP,92212
+143,88,2026-08-20,En Proceso,Marketplace,118614
+144,428,2026-07-25,Despachado,Marketplace,310446
+145,279,2026-08-22,En Proceso,Marketplace,211324
+146,385,2026-08-09,Cancelado,Web,215192
+147,347,2026-06-05,Cancelado,Instagram,41983
+148,77,2026-08-24,Entregado,Web,84642
+149,106,2026-07-01,Despachado,Tienda MDP,68780
+150,415,2026-07-02,Entregado,Web,334707
+151,488,2026-08-08,Cancelado,Tienda MDP,371235
+152,58,2026-07-23,Cancelado,Tienda MDP,279273
+153,95,2026-06-07,Entregado,Instagram,353241
+154,190,2026-07-03,Entregado,Instagram,237387
+155,188,2026-07-16,Entregado,Web,387268
+156,10,2026-08-23,En Proceso,Instagram,158976
+157,18,2026-08-03,En Proceso,Instagram,28503
+158,162,2026-07-19,Cancelado,Instagram,155482
+159,283,2026-07-20,Cancelado,Web,233758
+160,364,2026-06-05,Cancelado,Instagram,23851
+161,244,2026-08-25,Despachado,Tienda MDP,239583
+162,324,2026-07-23,En Proceso,Instagram,298790
+163,494,2026-07-19,En Proceso,Marketplace,394196
+164,314,2026-07-10,En Proceso,Marketplace,292807
+165,141,2026-08-26,Despachado,Tienda MDP,314428
+166,82,2026-08-18,Entregado,Tienda MDP,375905
+167,421,2026-07-13,Entregado,Instagram,390795
+168,141,2026-06-13,En Proceso,Marketplace,319975
+169,53,2026-07-06,Cancelado,Marketplace,206856
+170,3,2026-08-02,En Proceso,Web,308062
+171,389,2026-07-18,Cancelado,Instagram,48299
+172,446,2026-06-08,Despachado,Web,295788
+173,320,2026-07-07,Cancelado,Tienda MDP,319605
+174,105,2026-07-05,Despachado,Web,383112
+175,184,2026-06-05,Entregado,Instagram,344644
+176,167,2026-08-04,Entregado,Instagram,332432
+177,111,2026-08-24,En Proceso,Tienda MDP,191049
+178,36,2026-08-23,En Proceso,Instagram,233799
+179,499,2026-07-02,En Proceso,Tienda MDP,72233
+180,191,2026-08-06,En Proceso,Marketplace,334355
+181,357,2026-07-09,Cancelado,Marketplace,63896
+182,69,2026-08-03,Entregado,Marketplace,94774
+183,466,2026-06-10,Despachado,Web,275735
+184,50,2026-08-24,Cancelado,Instagram,215753
+185,38,2026-06-12,Cancelado,Marketplace,201064
+186,207,2026-06-12,Cancelado,Instagram,260464
+187,249,2026-08-16,Despachado,Tienda MDP,242703
+188,431,2026-07-19,Despachado,Instagram,57938
+189,378,2026-07-23,Despachado,Marketplace,134112
+190,65,2026-07-29,Despachado,Instagram,175830
+191,457,2026-06-03,Despachado,Marketplace,274863
+192,413,2026-08-14,Entregado,Marketplace,216813
+193,37,2026-08-17,En Proceso,Web,45697
+194,13,2026-08-28,Entregado,Marketplace,147050
+195,104,2026-08-10,Entregado,Tienda MDP,337912
+196,471,2026-08-06,Entregado,Tienda MDP,261712
+197,324,2026-06-14,Despachado,Marketplace,76654
+198,419,2026-06-18,En Proceso,Instagram,109998
+199,39,2026-06-12,Cancelado,Web,196217
+200,381,2026-06-24,Entregado,Marketplace,80420
+201,99,2026-07-13,Entregado,Marketplace,279690
+202,428,2026-06-14,Entregado,Tienda MDP,369874
+203,309,2026-07-15,Despachado,Instagram,340197
+204,224,2026-06-28,Entregado,Marketplace,78938
+205,430,2026-07-03,Cancelado,Marketplace,58357
+206,72,2026-08-23,Entregado,Instagram,215815
+207,355,2026-07-27,Cancelado,Instagram,169775
+208,191,2026-07-24,En Proceso,Tienda MDP,277576
+209,95,2026-07-31,En Proceso,Instagram,183807
+210,171,2026-06-10,Despachado,Marketplace,370676
+211,450,2026-08-17,En Proceso,Marketplace,227070
+212,404,2026-08-07,Cancelado,Tienda MDP,80343
+213,440,2026-07-22,Entregado,Tienda MDP,298971
+214,128,2026-06-24,Despachado,Marketplace,328763
+215,117,2026-08-03,En Proceso,Marketplace,279402
+216,143,2026-07-01,Despachado,Marketplace,267065
+217,413,2026-08-16,Entregado,Marketplace,342510
+218,430,2026-06-18,Cancelado,Tienda MDP,44819
+219,297,2026-06-26,Cancelado,Tienda MDP,395984
+220,216,2026-06-12,Despachado,Web,316754
+221,413,2026-08-11,Despachado,Marketplace,92020
+222,342,2026-07-05,Entregado,Marketplace,204545
+223,126,2026-07-14,Entregado,Instagram,153443
+224,324,2026-07-08,En Proceso,Tienda MDP,279549
+225,23,2026-08-15,En Proceso,Tienda MDP,93726
+226,131,2026-06-18,Entregado,Instagram,272186
+227,360,2026-08-09,En Proceso,Tienda MDP,357419
+228,126,2026-08-14,Cancelado,Instagram,337938
+229,392,2026-06-04,Entregado,Tienda MDP,323895
+230,219,2026-07-31,En Proceso,Web,99837
+231,227,2026-06-12,En Proceso,Tienda MDP,313110
+232,356,2026-08-27,En Proceso,Instagram,391873
+233,400,2026-07-04,Despachado,Tienda MDP,147947
+234,139,2026-08-23,Entregado,Web,187297
+235,272,2026-06-11,Entregado,Instagram,151759
+236,311,2026-06-04,Entregado,Web,354974
+237,90,2026-08-26,Despachado,Tienda MDP,228887
+238,138,2026-08-20,Cancelado,Marketplace,50465
+239,165,2026-08-10,En Proceso,Web,361877
+240,402,2026-06-20,En Proceso,Web,243687
+241,406,2026-07-01,En Proceso,Tienda MDP,51944
+242,429,2026-07-22,En Proceso,Tienda MDP,330256
+243,71,2026-06-29,Despachado,Web,399394
+244,291,2026-07-16,Entregado,Instagram,80494
+245,497,2026-08-26,Despachado,Web,134906
+246,349,2026-07-22,Cancelado,Web,166313
+247,228,2026-07-08,Cancelado,Marketplace,189736
+248,327,2026-07-08,Cancelado,Marketplace,140798
+249,391,2026-06-05,Despachado,Web,389730
+250,470,2026-06-29,Despachado,Web,33435
+251,486,2026-08-22,En Proceso,Marketplace,245058
+252,99,2026-06-26,Entregado,Tienda MDP,135065
+253,252,2026-06-23,Entregado,Tienda MDP,126121
+254,116,2026-06-19,En Proceso,Tienda MDP,148523
+255,318,2026-06-12,En Proceso,Web,37268
+256,111,2026-08-03,Entregado,Marketplace,33386
+257,388,2026-06-22,En Proceso,Tienda MDP,136879
+258,455,2026-07-30,Despachado,Instagram,130736
+259,279,2026-08-29,Entregado,Web,271718
+260,357,2026-07-20,Despachado,Web,42328
+261,130,2026-08-07,Entregado,Instagram,114242
+262,455,2026-07-02,Cancelado,Tienda MDP,81358
+263,258,2026-06-22,Despachado,Marketplace,201010
+264,40,2026-06-18,En Proceso,Instagram,70475
+265,110,2026-07-09,En Proceso,Tienda MDP,87659
+266,303,2026-06-18,En Proceso,Instagram,127281
+267,221,2026-08-09,Entregado,Web,251174
+268,67,2026-06-21,Despachado,Instagram,54097
+269,486,2026-08-01,Entregado,Instagram,49980
+270,481,2026-07-01,Entregado,Instagram,49220
+271,288,2026-07-06,Entregado,Tienda MDP,284057
+272,88,2026-06-22,Despachado,Tienda MDP,314658
+273,367,2026-08-08,Despachado,Tienda MDP,88902
+274,115,2026-07-14,Cancelado,Instagram,286278
+275,399,2026-07-11,Cancelado,Web,111137
+276,49,2026-06-29,Cancelado,Tienda MDP,61595
+277,40,2026-06-09,Despachado,Tienda MDP,282578
+278,49,2026-07-25,Cancelado,Instagram,120525
+279,402,2026-08-10,Despachado,Web,44247
+280,16,2026-06-12,En Proceso,Marketplace,280014
+281,71,2026-06-23,Cancelado,Instagram,47017
+282,280,2026-07-13,Cancelado,Tienda MDP,252240
+283,208,2026-07-17,En Proceso,Web,70937
+284,266,2026-08-06,Cancelado,Instagram,174876
+285,414,2026-07-12,Cancelado,Instagram,198039
+286,446,2026-06-10,Cancelado,Marketplace,353497
+287,154,2026-07-12,En Proceso,Instagram,21468
+288,352,2026-06-07,Entregado,Web,359489
+289,56,2026-07-21,En Proceso,Web,322788
+290,71,2026-08-08,Entregado,Tienda MDP,193828
+291,467,2026-07-17,Entregado,Marketplace,132386
+292,241,2026-07-01,En Proceso,Instagram,23175
+293,345,2026-07-31,Despachado,Instagram,130233
+294,33,2026-06-21,Despachado,Web,344904
+295,292,2026-06-22,En Proceso,Marketplace,66691
+296,271,2026-08-28,Despachado,Marketplace,239142
+297,63,2026-08-19,En Proceso,Instagram,115864
+298,78,2026-08-02,Despachado,Web,39707
+299,157,2026-07-26,Despachado,Instagram,218752
+300,477,2026-08-18,En Proceso,Instagram,186652
+301,423,2026-07-24,Cancelado,Tienda MDP,352948
+302,101,2026-06-06,Entregado,Web,186424
+303,103,2026-06-09,Despachado,Instagram,207114
+304,211,2026-07-19,En Proceso,Instagram,293871
+305,273,2026-07-12,Entregado,Tienda MDP,97281
+306,386,2026-08-21,Cancelado,Tienda MDP,318147
+307,230,2026-08-13,Entregado,Web,98362
+308,425,2026-07-11,Despachado,Marketplace,65283
+309,8,2026-07-03,En Proceso,Instagram,80856
+310,407,2026-08-11,Despachado,Instagram,160362
+311,263,2026-08-22,Entregado,Web,347496
+312,187,2026-06-28,Despachado,Web,286535
+313,352,2026-07-20,Entregado,Marketplace,55566
+314,210,2026-06-20,Entregado,Instagram,197413
+315,54,2026-06-19,Despachado,Marketplace,367481
+316,225,2026-06-04,En Proceso,Instagram,182320
+317,254,2026-08-17,Entregado,Web,375624
+318,373,2026-08-08,Cancelado,Web,33467
+319,498,2026-07-01,En Proceso,Web,179897
+320,206,2026-07-01,Cancelado,Instagram,70193
+321,61,2026-07-29,En Proceso,Web,243686
+322,480,2026-06-28,Despachado,Tienda MDP,105098
+323,447,2026-08-06,Cancelado,Tienda MDP,336741
+324,51,2026-07-21,Entregado,Tienda MDP,60635
+325,396,2026-07-06,Entregado,Web,85207
+326,324,2026-07-10,Cancelado,Tienda MDP,179703
+327,278,2026-07-11,En Proceso,Web,366752
+328,459,2026-06-23,En Proceso,Tienda MDP,337658
+329,108,2026-07-08,Despachado,Web,262994
+330,276,2026-07-12,Entregado,Web,323344
+331,171,2026-07-05,Despachado,Web,54809
+332,61,2026-08-26,En Proceso,Instagram,393313
+333,42,2026-06-26,Despachado,Tienda MDP,343756
+334,15,2026-06-05,Entregado,Instagram,81713
+335,139,2026-07-07,Entregado,Instagram,29005
+336,420,2026-08-02,Despachado,Instagram,218288
+337,8,2026-07-27,Cancelado,Web,241902
+338,145,2026-06-22,En Proceso,Marketplace,397537
+339,122,2026-07-14,En Proceso,Marketplace,95371
+340,202,2026-08-31,En Proceso,Tienda MDP,42403
+341,37,2026-06-05,Despachado,Tienda MDP,316597
+342,310,2026-06-04,Entregado,Instagram,31709
+343,211,2026-06-24,Despachado,Web,264954
+344,59,2026-07-01,Entregado,Web,216830
+345,8,2026-07-02,Cancelado,Marketplace,229501
+346,332,2026-07-06,En Proceso,Instagram,394033
+347,473,2026-08-11,Cancelado,Instagram,386400
+348,459,2026-07-26,Despachado,Instagram,261631
+349,338,2026-08-18,Despachado,Web,102027
+350,199,2026-06-25,Entregado,Marketplace,257057
+351,408,2026-06-15,En Proceso,Marketplace,329585
+352,299,2026-06-06,Entregado,Tienda MDP,80510
+353,325,2026-07-01,Entregado,Marketplace,201807
+354,98,2026-07-04,Despachado,Marketplace,68130
+355,254,2026-07-04,Despachado,Web,275472
+356,87,2026-07-04,Cancelado,Web,148314
+357,441,2026-08-27,Cancelado,Instagram,344671
+358,415,2026-07-25,Despachado,Web,119554
+359,307,2026-08-15,Despachado,Marketplace,277491
+360,31,2026-07-19,Despachado,Tienda MDP,170127
+361,239,2026-07-13,Cancelado,Tienda MDP,322186
+362,8,2026-08-03,En Proceso,Instagram,159534
+363,146,2026-07-31,Despachado,Web,38054
+364,120,2026-08-11,Entregado,Tienda MDP,159349
+365,456,2026-06-25,En Proceso,Instagram,370614
+366,152,2026-06-22,Entregado,Marketplace,393279
+367,377,2026-07-12,En Proceso,Tienda MDP,46551
+368,172,2026-07-25,En Proceso,Instagram,165364
+369,255,2026-06-15,Cancelado,Marketplace,372666
+370,65,2026-06-20,Entregado,Marketplace,365398
+371,139,2026-07-16,Cancelado,Tienda MDP,41436
+372,200,2026-07-25,En Proceso,Web,130363
+373,400,2026-06-28,Cancelado,Marketplace,172135
+374,75,2026-06-29,Entregado,Web,90337
+375,91,2026-07-22,Entregado,Instagram,383942
+376,86,2026-07-30,Entregado,Instagram,169870
+377,31,2026-08-31,Despachado,Web,310524
+378,256,2026-06-27,En Proceso,Marketplace,153615
+379,374,2026-08-16,Cancelado,Instagram,181595
+380,38,2026-06-23,Despachado,Tienda MDP,333620
+381,338,2026-07-30,En Proceso,Tienda MDP,187882
+382,196,2026-07-08,En Proceso,Tienda MDP,302285
+383,157,2026-07-26,Entregado,Instagram,172457
+384,53,2026-08-24,En Proceso,Marketplace,57875
+385,93,2026-07-12,Entregado,Marketplace,232001
+386,332,2026-08-28,Cancelado,Marketplace,291350
+387,363,2026-06-17,Cancelado,Tienda MDP,115913
+388,354,2026-06-11,Entregado,Instagram,345155
+389,333,2026-06-29,Despachado,Tienda MDP,79671
+390,20,2026-07-27,Cancelado,Tienda MDP,198157
+391,449,2026-06-18,Despachado,Instagram,70609
+392,204,2026-08-25,Entregado,Instagram,170656
+393,308,2026-07-31,En Proceso,Marketplace,273730
+394,100,2026-08-02,En Proceso,Web,302752
+395,21,2026-08-10,Entregado,Marketplace,27209
+396,9,2026-08-17,Cancelado,Tienda MDP,172339
+397,294,2026-08-21,En Proceso,Instagram,38851
+398,289,2026-08-25,En Proceso,Instagram,241384
+399,2,2026-08-06,Despachado,Marketplace,128734
+400,406,2026-08-17,Despachado,Web,311989
+401,7,2026-07-31,Despachado,Marketplace,50469
+402,97,2026-08-18,Entregado,Tienda MDP,276611
+403,7,2026-06-07,En Proceso,Marketplace,214230
+404,236,2026-08-12,En Proceso,Tienda MDP,397483
+405,314,2026-07-05,Cancelado,Instagram,326300
+406,389,2026-08-01,Entregado,Tienda MDP,95516
+407,261,2026-07-16,Despachado,Web,331467
+408,198,2026-08-26,En Proceso,Marketplace,142562
+409,422,2026-06-25,En Proceso,Instagram,294045
+410,92,2026-08-03,Entregado,Marketplace,342125
+411,271,2026-08-02,Despachado,Web,391286
+412,355,2026-08-19,Despachado,Web,26796
+413,254,2026-07-27,Entregado,Tienda MDP,31269
+414,146,2026-06-17,Cancelado,Instagram,38365
+415,26,2026-06-13,Cancelado,Marketplace,367304
+416,39,2026-08-09,Entregado,Instagram,370951
+417,290,2026-08-25,En Proceso,Tienda MDP,195761
+418,233,2026-08-09,Despachado,Web,309758
+419,397,2026-08-25,Cancelado,Marketplace,370016
+420,348,2026-08-14,Entregado,Web,355125
+421,393,2026-06-26,Despachado,Tienda MDP,114552
+422,286,2026-06-24,Entregado,Marketplace,21319
+423,293,2026-07-07,Cancelado,Web,97715
+424,150,2026-06-06,Despachado,Marketplace,51139
+425,108,2026-08-13,Entregado,Instagram,199207
+426,323,2026-06-11,Entregado,Instagram,24575
+427,411,2026-08-25,Despachado,Marketplace,373351
+428,34,2026-06-17,Cancelado,Web,194910
+429,480,2026-08-11,En Proceso,Tienda MDP,357366
+430,358,2026-08-12,Cancelado,Tienda MDP,128250
+431,150,2026-06-16,Entregado,Tienda MDP,301016
+432,350,2026-06-28,Despachado,Instagram,318640
+433,392,2026-06-16,Entregado,Tienda MDP,303165
+434,7,2026-06-24,Despachado,Web,391742
+435,193,2026-07-03,Despachado,Web,74092
+436,368,2026-08-05,Despachado,Tienda MDP,85986
+437,195,2026-07-18,En Proceso,Web,173311
+438,379,2026-07-16,En Proceso,Web,340442
+439,387,2026-08-13,Entregado,Instagram,278610
+440,64,2026-08-24,Despachado,Web,62439
+441,169,2026-07-08,En Proceso,Instagram,242826
+442,255,2026-06-29,Cancelado,Marketplace,107386
+443,228,2026-06-15,Cancelado,Marketplace,143735
+444,385,2026-06-23,Cancelado,Instagram,132150
+445,216,2026-07-12,Entregado,Marketplace,132747
+446,134,2026-07-05,Despachado,Tienda MDP,368614
+447,32,2026-08-14,Despachado,Tienda MDP,179423
+448,391,2026-08-06,En Proceso,Marketplace,365493
+449,360,2026-07-26,Cancelado,Tienda MDP,261775
+450,382,2026-07-27,Cancelado,Marketplace,354216
+451,288,2026-07-20,Entregado,Instagram,276460
+452,480,2026-08-16,Entregado,Marketplace,37943
+453,151,2026-06-26,Despachado,Tienda MDP,378395
+454,30,2026-06-19,En Proceso,Web,89636
+455,462,2026-08-18,En Proceso,Tienda MDP,266384
+456,454,2026-06-22,Entregado,Marketplace,342688
+457,276,2026-07-31,Despachado,Marketplace,67081
+458,23,2026-06-03,En Proceso,Tienda MDP,277431
+459,383,2026-07-29,Despachado,Web,71916
+460,354,2026-07-21,Cancelado,Instagram,190731
+461,222,2026-08-06,Entregado,Instagram,380828
+462,365,2026-08-04,En Proceso,Marketplace,395048
+463,467,2026-08-29,Despachado,Instagram,52563
+464,284,2026-07-13,En Proceso,Instagram,113382
+465,271,2026-06-21,Entregado,Marketplace,160321
+466,182,2026-08-19,En Proceso,Instagram,382564
+467,40,2026-08-02,En Proceso,Web,276643
+468,91,2026-07-11,Despachado,Instagram,71733
+469,309,2026-07-29,Entregado,Marketplace,377580
+470,23,2026-06-27,Despachado,Instagram,238790
+471,405,2026-07-21,Entregado,Tienda MDP,75129
+472,394,2026-06-21,Cancelado,Instagram,263638
+473,245,2026-07-30,Despachado,Instagram,265027
+474,277,2026-08-25,Entregado,Web,173329
+475,450,2026-08-13,Cancelado,Tienda MDP,133109
+476,168,2026-07-29,Despachado,Marketplace,302057
+477,147,2026-08-25,Despachado,Web,385448
+478,360,2026-07-20,Despachado,Web,39054
+479,160,2026-07-24,Despachado,Instagram,43557
+480,120,2026-08-15,En Proceso,Web,219506
+481,470,2026-08-14,En Proceso,Instagram,346587
+482,431,2026-07-06,Cancelado,Marketplace,101807
+483,84,2026-08-12,Entregado,Tienda MDP,178341
+484,33,2026-06-28,Cancelado,Web,229924
+485,141,2026-08-21,Cancelado,Marketplace,143183
+486,55,2026-06-22,Despachado,Instagram,392778
+487,127,2026-06-13,Cancelado,Marketplace,291632
+488,289,2026-07-05,Entregado,Web,333099
+489,451,2026-07-26,En Proceso,Instagram,349790
+490,40,2026-06-10,Cancelado,Web,75424
+491,346,2026-07-03,Despachado,Marketplace,317140
+492,127,2026-06-20,En Proceso,Web,99153
+493,448,2026-06-25,Entregado,Tienda MDP,399669
+494,473,2026-07-18,Entregado,Web,70332
+495,417,2026-08-09,Cancelado,Marketplace,101943
+496,273,2026-08-22,Cancelado,Marketplace,30845
+497,324,2026-08-12,Despachado,Marketplace,331814
+498,492,2026-07-25,Cancelado,Tienda MDP,76868
+499,305,2026-07-01,Despachado,Tienda MDP,240816
+500,417,2026-07-20,Entregado,Instagram,263783
+501,54,2026-08-27,Cancelado,Tienda MDP,95651
+502,23,2026-07-22,Despachado,Tienda MDP,241881
+503,195,2026-07-04,Despachado,Instagram,229043
+504,411,2026-07-27,Cancelado,Tienda MDP,123459
+505,108,2026-07-19,Entregado,Web,357711
+506,181,2026-06-11,Entregado,Instagram,208507
+507,482,2026-06-26,Cancelado,Instagram,383134
+508,216,2026-08-13,Cancelado,Web,262393
+509,244,2026-07-07,Entregado,Web,202164
+510,440,2026-07-06,En Proceso,Tienda MDP,96073
+511,307,2026-06-05,En Proceso,Marketplace,180527
+512,51,2026-08-09,Entregado,Tienda MDP,211948
+513,220,2026-08-16,En Proceso,Marketplace,60747
+514,388,2026-08-09,Despachado,Instagram,196536
+515,274,2026-08-27,Entregado,Tienda MDP,73046
+516,259,2026-08-15,Cancelado,Tienda MDP,81678
+517,42,2026-06-12,En Proceso,Instagram,336215
+518,370,2026-08-31,Despachado,Web,167938
+519,326,2026-07-06,En Proceso,Web,120560
+520,202,2026-06-28,Cancelado,Marketplace,246940
+521,285,2026-08-03,Despachado,Marketplace,285143
+522,410,2026-08-02,Despachado,Instagram,207735
+523,324,2026-07-24,Despachado,Marketplace,294663
+524,166,2026-07-19,En Proceso,Tienda MDP,261137
+525,66,2026-06-05,Cancelado,Tienda MDP,270973
+526,118,2026-08-11,En Proceso,Marketplace,86785
+527,438,2026-07-27,Entregado,Marketplace,68829
+528,225,2026-08-28,En Proceso,Instagram,180580
+529,487,2026-07-28,Entregado,Marketplace,335766
+530,254,2026-06-29,Cancelado,Marketplace,383166
+531,380,2026-06-27,En Proceso,Marketplace,266649
+532,485,2026-07-17,En Proceso,Tienda MDP,320519
+533,456,2026-06-18,Entregado,Tienda MDP,39193
+534,479,2026-08-15,Entregado,Tienda MDP,43864
+535,337,2026-06-16,En Proceso,Instagram,50485
+536,40,2026-08-31,Entregado,Tienda MDP,212588
+537,70,2026-07-29,Cancelado,Instagram,386307
+538,408,2026-06-11,Entregado,Web,19385
+539,282,2026-07-30,En Proceso,Marketplace,317916
+540,52,2026-07-14,En Proceso,Marketplace,192845
+541,446,2026-08-12,Despachado,Tienda MDP,170254
+542,345,2026-08-03,Entregado,Web,377224
+543,277,2026-07-05,En Proceso,Instagram,47690
+544,90,2026-08-28,Entregado,Marketplace,70892
+545,284,2026-07-21,Entregado,Instagram,132848
+546,280,2026-07-01,Cancelado,Marketplace,264706
+547,53,2026-06-25,Despachado,Web,227869
+548,279,2026-08-02,Despachado,Marketplace,324084
+549,400,2026-08-17,Despachado,Instagram,337846
+550,8,2026-08-09,En Proceso,Tienda MDP,31310
+551,366,2026-08-29,Entregado,Tienda MDP,285711
+552,429,2026-07-27,Cancelado,Marketplace,246016
+553,418,2026-07-02,Entregado,Tienda MDP,145071
+554,240,2026-08-17,En Proceso,Instagram,264069
+555,144,2026-08-01,Despachado,Web,130139
+556,266,2026-07-17,En Proceso,Instagram,112150
+557,111,2026-07-10,Cancelado,Web,300431
+558,306,2026-06-05,Despachado,Marketplace,47944
+559,91,2026-08-19,Entregado,Web,84544
+560,403,2026-07-03,Despachado,Marketplace,160777
+561,493,2026-07-07,Despachado,Tienda MDP,390364
+562,166,2026-06-09,Cancelado,Web,100667
+563,231,2026-06-25,Entregado,Instagram,233030
+564,394,2026-07-16,En Proceso,Tienda MDP,308733
+565,5,2026-06-04,Entregado,Marketplace,113407
+566,171,2026-07-26,Cancelado,Instagram,59931
+567,221,2026-07-12,Entregado,Instagram,384498
+568,84,2026-08-08,En Proceso,Tienda MDP,35859
+569,196,2026-08-06,Despachado,Web,55425
+570,116,2026-07-30,Despachado,Web,180451
+571,365,2026-06-29,En Proceso,Marketplace,195288
+572,403,2026-08-12,Despachado,Tienda MDP,119442
+573,200,2026-07-06,Cancelado,Instagram,87498
+574,182,2026-06-06,En Proceso,Tienda MDP,356399
+575,488,2026-08-18,Cancelado,Marketplace,297187
+576,427,2026-07-11,Entregado,Marketplace,197815
+577,89,2026-07-23,Entregado,Tienda MDP,142153
+578,184,2026-06-09,En Proceso,Web,172680
+579,57,2026-07-08,Entregado,Instagram,346751
+580,162,2026-07-02,Entregado,Web,180131
+581,418,2026-06-18,Entregado,Tienda MDP,279065
+582,441,2026-08-07,Despachado,Tienda MDP,281101
+583,138,2026-07-29,En Proceso,Web,110098
+584,481,2026-06-13,Cancelado,Web,196975
+585,441,2026-08-04,En Proceso,Marketplace,300760
+586,497,2026-06-03,Entregado,Instagram,140594
+587,133,2026-07-26,Entregado,Tienda MDP,328316
+588,2,2026-07-06,Cancelado,Tienda MDP,372839
+589,407,2026-06-18,Cancelado,Web,222922
+590,131,2026-07-18,Cancelado,Tienda MDP,198631
+591,256,2026-08-12,Entregado,Web,229993
+592,1,2026-07-17,En Proceso,Tienda MDP,142490
+593,465,2026-08-31,En Proceso,Tienda MDP,365270
+594,347,2026-08-23,En Proceso,Tienda MDP,376223
+595,121,2026-06-09,Despachado,Web,269772
+596,345,2026-07-07,Despachado,Web,278205
+597,201,2026-08-17,Cancelado,Tienda MDP,58881
+598,304,2026-07-30,Entregado,Web,67054
+599,138,2026-07-13,En Proceso,Marketplace,340839
+600,398,2026-06-07,Despachado,Web,101213
+601,78,2026-06-13,Entregado,Marketplace,225625
+602,393,2026-07-30,En Proceso,Web,364275
+603,304,2026-07-26,En Proceso,Marketplace,159317
+604,472,2026-06-21,Entregado,Tienda MDP,265726
+605,277,2026-07-10,En Proceso,Marketplace,224979
+606,122,2026-07-25,Entregado,Web,207535
+607,470,2026-08-23,Entregado,Tienda MDP,179251
+608,256,2026-06-14,Cancelado,Marketplace,100940
+609,355,2026-06-16,Entregado,Tienda MDP,312239
+610,373,2026-06-04,Entregado,Marketplace,30046
+611,205,2026-06-30,Despachado,Tienda MDP,112880
+612,64,2026-07-08,Entregado,Tienda MDP,166803
+613,60,2026-08-05,Entregado,Tienda MDP,292419
+614,390,2026-06-22,Entregado,Web,342121
+615,34,2026-08-24,Despachado,Marketplace,361089
+616,145,2026-06-27,Despachado,Marketplace,95064
+617,74,2026-07-20,En Proceso,Tienda MDP,284237
+618,124,2026-07-01,Cancelado,Instagram,92659
+619,183,2026-06-11,En Proceso,Web,155622
+620,322,2026-08-04,Entregado,Instagram,150194
+621,438,2026-06-26,Cancelado,Web,227940
+622,182,2026-06-29,En Proceso,Tienda MDP,316055
+623,191,2026-06-22,En Proceso,Marketplace,349363
+624,89,2026-08-13,Cancelado,Marketplace,366065
+625,323,2026-07-24,En Proceso,Instagram,168020
+626,74,2026-07-29,En Proceso,Instagram,108450
+627,17,2026-06-11,En Proceso,Marketplace,311686
+628,420,2026-08-19,Cancelado,Marketplace,349319
+629,391,2026-08-11,Despachado,Web,132576
+630,366,2026-08-02,Cancelado,Web,251860
+631,431,2026-07-13,En Proceso,Instagram,80685
+632,297,2026-07-23,Cancelado,Instagram,68194
+633,184,2026-06-12,Cancelado,Tienda MDP,346740
+634,55,2026-08-08,Entregado,Instagram,169195
+635,110,2026-07-15,En Proceso,Marketplace,188581
+636,175,2026-07-17,Despachado,Tienda MDP,217395
+637,240,2026-07-05,Despachado,Instagram,140395
+638,251,2026-08-03,Entregado,Instagram,180615
+639,61,2026-08-17,Entregado,Web,47875
+640,206,2026-07-11,En Proceso,Instagram,136634
+641,240,2026-08-10,Cancelado,Instagram,21366
+642,366,2026-08-19,Cancelado,Tienda MDP,204157
+643,281,2026-07-29,Cancelado,Instagram,151506
+644,99,2026-07-31,Despachado,Instagram,245943
+645,438,2026-06-21,Cancelado,Marketplace,150674
+646,491,2026-07-02,En Proceso,Instagram,387360
+647,453,2026-06-22,Cancelado,Marketplace,208830
+648,269,2026-07-30,Cancelado,Instagram,181594
+649,435,2026-08-13,En Proceso,Marketplace,352373
+650,354,2026-08-03,Cancelado,Tienda MDP,289715
+651,2,2026-07-12,Entregado,Marketplace,58406
+652,273,2026-06-07,Cancelado,Web,124595
+653,447,2026-06-14,Cancelado,Marketplace,218032
+654,18,2026-07-22,Despachado,Web,300589
+655,296,2026-07-28,Cancelado,Tienda MDP,249335
+656,233,2026-07-27,Cancelado,Instagram,326159
+657,266,2026-07-20,Despachado,Marketplace,155745
+658,354,2026-06-14,En Proceso,Web,263032
+659,281,2026-06-27,Entregado,Marketplace,278442
+660,48,2026-06-24,Entregado,Tienda MDP,71198
+661,290,2026-07-13,Entregado,Web,24639
+662,455,2026-07-29,En Proceso,Instagram,226983
+663,61,2026-06-07,Entregado,Marketplace,102434
+664,297,2026-06-21,Entregado,Marketplace,118083
+665,277,2026-08-20,En Proceso,Instagram,273332
+666,391,2026-07-20,Cancelado,Web,219605
+667,433,2026-07-19,Despachado,Instagram,76569
+668,79,2026-06-26,Entregado,Tienda MDP,248518
+669,346,2026-07-25,En Proceso,Web,389160
+670,325,2026-07-11,Despachado,Instagram,206907
+671,493,2026-07-08,En Proceso,Instagram,354214
+672,365,2026-07-01,Entregado,Tienda MDP,125825
+673,88,2026-08-01,Despachado,Tienda MDP,326434
+674,140,2026-08-01,En Proceso,Tienda MDP,84644
+675,123,2026-08-11,En Proceso,Marketplace,69365
+676,306,2026-06-28,En Proceso,Web,301976
+677,1,2026-07-07,Cancelado,Web,87694
+678,20,2026-08-30,Entregado,Web,266244
+679,239,2026-07-25,En Proceso,Instagram,179958
+680,460,2026-08-31,Entregado,Instagram,350857
+681,443,2026-07-20,Cancelado,Web,317326
+682,144,2026-06-30,Despachado,Marketplace,350244
+683,139,2026-08-31,Cancelado,Web,115073
+684,346,2026-07-19,Entregado,Instagram,25118
+685,239,2026-07-30,Entregado,Tienda MDP,229914
+686,49,2026-07-20,Cancelado,Marketplace,253081
+687,142,2026-08-28,Entregado,Marketplace,223729
+688,399,2026-06-06,Despachado,Instagram,304973
+689,371,2026-08-01,En Proceso,Tienda MDP,388159
+690,222,2026-08-14,En Proceso,Web,263630
+691,111,2026-08-30,En Proceso,Tienda MDP,88964
+692,85,2026-07-08,Despachado,Web,370213
+693,261,2026-07-27,En Proceso,Web,49174
+694,296,2026-06-30,En Proceso,Tienda MDP,244315
+695,37,2026-08-15,En Proceso,Tienda MDP,266654
+696,415,2026-07-24,Despachado,Tienda MDP,213904
+697,327,2026-08-05,En Proceso,Marketplace,327652
+698,245,2026-08-25,Cancelado,Web,99645
+699,494,2026-06-14,Entregado,Tienda MDP,142563
+700,13,2026-08-19,Despachado,Web,175467
+701,119,2026-08-27,Entregado,Web,103840
+702,37,2026-06-12,En Proceso,Instagram,152922
+703,143,2026-06-19,En Proceso,Marketplace,331327
+704,59,2026-07-14,Entregado,Marketplace,212601
+705,445,2026-08-12,Entregado,Tienda MDP,121488
+706,333,2026-08-02,Despachado,Instagram,382411
+707,58,2026-08-21,Cancelado,Tienda MDP,25732
+708,184,2026-08-06,Cancelado,Web,290936
+709,30,2026-06-22,Cancelado,Marketplace,62302
+710,246,2026-07-01,Despachado,Web,379010
+711,272,2026-08-18,En Proceso,Web,175481
+712,236,2026-07-21,Entregado,Tienda MDP,206529
+713,285,2026-08-03,Entregado,Web,125008
+714,386,2026-07-01,Despachado,Tienda MDP,104956
+715,312,2026-07-21,Entregado,Marketplace,275160
+716,298,2026-06-19,Entregado,Web,162583
+717,379,2026-08-18,Entregado,Instagram,300440
+718,459,2026-07-10,Despachado,Marketplace,190241
+719,1,2026-07-16,Cancelado,Tienda MDP,300898
+720,351,2026-07-10,Cancelado,Instagram,100873
+721,157,2026-07-10,Entregado,Tienda MDP,145782
+722,212,2026-06-07,Entregado,Instagram,175321
+723,246,2026-06-22,Cancelado,Tienda MDP,189530
+724,343,2026-08-13,Despachado,Tienda MDP,122539
+725,345,2026-08-02,Cancelado,Tienda MDP,255508
+726,392,2026-08-25,Despachado,Tienda MDP,61538
+727,178,2026-06-15,Cancelado,Web,202158
+728,288,2026-06-26,En Proceso,Marketplace,258984
+729,125,2026-06-24,En Proceso,Web,347200
+730,158,2026-06-12,Despachado,Instagram,43826
+731,209,2026-06-25,Despachado,Web,115050
+732,205,2026-06-28,En Proceso,Tienda MDP,310309
+733,118,2026-07-10,Despachado,Web,124210
+734,261,2026-06-14,Despachado,Marketplace,94690
+735,365,2026-06-11,Cancelado,Tienda MDP,126422
+736,288,2026-06-10,En Proceso,Instagram,94898
+737,186,2026-06-05,Despachado,Marketplace,236069
+738,352,2026-07-28,Entregado,Tienda MDP,318855
+739,224,2026-08-02,Entregado,Marketplace,288402
+740,354,2026-08-28,En Proceso,Web,257591
+741,251,2026-08-15,Despachado,Instagram,343402
+742,418,2026-07-13,Despachado,Tienda MDP,285803
+743,301,2026-07-08,En Proceso,Tienda MDP,393555
+744,67,2026-07-21,Despachado,Web,223851
+745,386,2026-08-19,Cancelado,Marketplace,257461
+746,470,2026-08-03,Entregado,Instagram,55594
+747,107,2026-06-26,Entregado,Marketplace,259330
+748,82,2026-07-24,Cancelado,Tienda MDP,368787
+749,94,2026-06-19,Cancelado,Web,213589
+750,90,2026-08-25,Despachado,Instagram,93687
+751,340,2026-06-17,En Proceso,Tienda MDP,309592
+752,48,2026-08-25,En Proceso,Web,334013
+753,193,2026-06-10,Despachado,Instagram,192907
+754,457,2026-06-13,Entregado,Instagram,212844
+755,353,2026-08-04,Despachado,Instagram,380777
+756,52,2026-06-04,Cancelado,Marketplace,28324
+757,4,2026-07-16,Cancelado,Instagram,284731
+758,282,2026-08-17,Despachado,Instagram,26728
+759,365,2026-07-06,Entregado,Marketplace,222007
+760,398,2026-07-11,Entregado,Web,328666
+761,301,2026-08-07,Despachado,Marketplace,177785
+762,244,2026-08-28,En Proceso,Instagram,344367
+763,481,2026-08-31,En Proceso,Instagram,48538
+764,260,2026-08-05,Despachado,Marketplace,318326
+765,473,2026-07-19,Entregado,Marketplace,285025
+766,41,2026-08-04,Entregado,Tienda MDP,143301
+767,441,2026-06-29,En Proceso,Tienda MDP,144842
+768,396,2026-08-20,Entregado,Marketplace,256414
+769,215,2026-08-21,En Proceso,Marketplace,55758
+770,248,2026-08-22,Cancelado,Tienda MDP,289018
+771,446,2026-06-08,Cancelado,Marketplace,196158
+772,411,2026-08-07,Entregado,Web,29835
+773,471,2026-08-18,En Proceso,Web,46220
+774,16,2026-08-27,Cancelado,Web,199284
+775,140,2026-08-23,Cancelado,Web,162502
+776,161,2026-06-07,En Proceso,Marketplace,110316
+777,357,2026-06-19,Cancelado,Instagram,111359
+778,487,2026-07-19,Entregado,Web,19465
+779,347,2026-08-15,Despachado,Web,231920
+780,184,2026-06-09,En Proceso,Instagram,90313
+781,3,2026-08-24,En Proceso,Web,398402
+782,433,2026-08-23,Despachado,Instagram,271472
+783,474,2026-06-29,En Proceso,Instagram,378243
+784,361,2026-06-28,En Proceso,Web,72523
+785,383,2026-06-26,Despachado,Web,86132
+786,5,2026-06-09,Cancelado,Tienda MDP,101676
+787,202,2026-06-26,En Proceso,Web,350551
+788,60,2026-06-09,En Proceso,Marketplace,61129
+789,396,2026-06-20,Cancelado,Web,37196
+790,338,2026-06-08,Entregado,Instagram,199004
+791,286,2026-08-09,En Proceso,Web,28758
+792,388,2026-06-20,Entregado,Instagram,316826
+793,272,2026-08-18,En Proceso,Web,296888
+794,238,2026-08-07,Cancelado,Tienda MDP,217740
+795,182,2026-08-08,En Proceso,Marketplace,320919
+796,497,2026-06-20,En Proceso,Tienda MDP,146684
+797,140,2026-08-24,Despachado,Marketplace,156244
+798,228,2026-06-18,Cancelado,Instagram,228122
+799,248,2026-08-06,Cancelado,Tienda MDP,340110
+800,235,2026-08-21,En Proceso,Web,268011
+801,324,2026-07-19,En Proceso,Instagram,173143
+802,472,2026-07-13,Cancelado,Instagram,23595
+803,477,2026-06-17,Entregado,Tienda MDP,383314
+804,248,2026-06-20,En Proceso,Web,44246
+805,192,2026-06-15,Cancelado,Tienda MDP,246184
+806,132,2026-06-26,En Proceso,Web,105895
+807,64,2026-06-26,En Proceso,Marketplace,355619
+808,289,2026-06-18,Despachado,Tienda MDP,279813
+809,251,2026-06-14,En Proceso,Tienda MDP,393507
+810,177,2026-06-06,Despachado,Web,198719
+811,358,2026-06-21,Entregado,Marketplace,208390
+812,255,2026-08-27,Cancelado,Marketplace,287357
+813,453,2026-08-02,Cancelado,Tienda MDP,392387
+814,324,2026-08-22,En Proceso,Tienda MDP,164077
+815,122,2026-06-15,Entregado,Tienda MDP,288824
+816,136,2026-08-05,Entregado,Marketplace,58295
+817,364,2026-07-11,Entregado,Instagram,275828
+818,174,2026-07-05,Cancelado,Web,75870
+819,467,2026-07-27,En Proceso,Tienda MDP,262322
+820,135,2026-07-14,Despachado,Web,371714
+821,481,2026-06-15,Entregado,Web,150180
+822,42,2026-08-18,Despachado,Instagram,346692
+823,158,2026-06-04,Cancelado,Web,135570
+824,429,2026-07-27,Entregado,Instagram,130559
+825,197,2026-07-04,En Proceso,Marketplace,356664
+826,218,2026-06-05,Entregado,Marketplace,55670
+827,43,2026-07-21,Despachado,Tienda MDP,111401
+828,429,2026-06-20,En Proceso,Tienda MDP,328765
+829,261,2026-06-14,En Proceso,Web,106884
+830,95,2026-06-21,Cancelado,Marketplace,245134
+831,412,2026-08-19,Despachado,Marketplace,331428
+832,28,2026-08-21,Cancelado,Tienda MDP,27000
+833,299,2026-08-09,Despachado,Web,241584
+834,279,2026-06-07,Despachado,Marketplace,92762
+835,132,2026-08-29,Despachado,Marketplace,166716
+836,320,2026-06-26,Cancelado,Marketplace,250005
+837,67,2026-07-03,Cancelado,Tienda MDP,32947
+838,318,2026-07-04,Cancelado,Tienda MDP,30853
+839,396,2026-08-26,Entregado,Instagram,329518
+840,245,2026-06-05,Entregado,Tienda MDP,398452
+841,427,2026-07-06,Cancelado,Web,300492
+842,72,2026-06-08,Cancelado,Tienda MDP,93708
+843,215,2026-07-26,Cancelado,Instagram,258101
+844,64,2026-06-17,Entregado,Tienda MDP,318413
+845,389,2026-08-30,Cancelado,Instagram,89239
+846,306,2026-06-05,Despachado,Tienda MDP,395562
+847,365,2026-07-09,Cancelado,Marketplace,388591
+848,359,2026-07-19,En Proceso,Marketplace,114404
+849,476,2026-06-16,Despachado,Instagram,46560
+850,478,2026-08-24,Cancelado,Instagram,23536
+851,473,2026-06-06,Entregado,Web,275112
+852,339,2026-06-18,Entregado,Marketplace,225574
+853,201,2026-08-21,En Proceso,Tienda MDP,97588
+854,158,2026-06-19,Cancelado,Marketplace,224689
+855,405,2026-06-14,Cancelado,Marketplace,391160
+856,51,2026-08-06,En Proceso,Marketplace,60328
+857,172,2026-06-05,En Proceso,Instagram,97520
+858,187,2026-06-10,Despachado,Web,103045
+859,394,2026-08-26,Entregado,Marketplace,280990
+860,435,2026-06-05,Entregado,Instagram,198409
+861,278,2026-06-10,Cancelado,Tienda MDP,80318
+862,138,2026-06-29,En Proceso,Marketplace,225731
+863,219,2026-08-20,Despachado,Marketplace,383673
+864,254,2026-06-24,Despachado,Web,344880
+865,184,2026-07-18,Cancelado,Web,379457
+866,187,2026-07-10,En Proceso,Instagram,329626
+867,384,2026-08-03,En Proceso,Web,191343
+868,428,2026-07-31,Despachado,Web,100258
+869,474,2026-06-04,Cancelado,Instagram,142156
+870,313,2026-08-08,Cancelado,Web,240281
+871,360,2026-08-09,En Proceso,Web,26437
+872,439,2026-06-22,Cancelado,Web,158733
+873,163,2026-08-22,Despachado,Instagram,181803
+874,283,2026-06-04,Despachado,Marketplace,220026
+875,212,2026-07-22,Cancelado,Web,50530
+876,474,2026-06-16,En Proceso,Web,271524
+877,358,2026-07-03,En Proceso,Marketplace,304337
+878,126,2026-07-29,Entregado,Marketplace,229235
+879,16,2026-08-23,En Proceso,Instagram,130059
+880,452,2026-08-29,En Proceso,Marketplace,261282
+881,98,2026-08-20,En Proceso,Marketplace,294496
+882,290,2026-08-14,En Proceso,Tienda MDP,254392
+883,103,2026-07-03,Despachado,Tienda MDP,105378
+884,45,2026-07-11,Despachado,Tienda MDP,377434
+885,5,2026-06-03,Entregado,Marketplace,277053
+886,308,2026-06-22,Cancelado,Marketplace,206639
+887,358,2026-06-14,Entregado,Instagram,219895
+888,447,2026-08-31,Despachado,Instagram,56475
+889,245,2026-08-15,Entregado,Instagram,198438
+890,378,2026-06-25,Entregado,Tienda MDP,249081
+891,20,2026-08-21,Entregado,Instagram,282224
+892,256,2026-06-10,Despachado,Marketplace,322256
+893,174,2026-06-06,Despachado,Tienda MDP,285931
+894,79,2026-07-26,Entregado,Web,337426
+895,377,2026-08-29,Cancelado,Tienda MDP,164127
+896,343,2026-07-15,Entregado,Tienda MDP,98913
+897,33,2026-07-16,Entregado,Tienda MDP,256175
+898,311,2026-08-09,Entregado,Tienda MDP,274458
+899,132,2026-08-04,En Proceso,Instagram,167120
+900,376,2026-07-28,Despachado,Marketplace,337181
+901,495,2026-08-16,Entregado,Tienda MDP,171513
+902,79,2026-08-20,Entregado,Tienda MDP,147510
+903,107,2026-07-26,Entregado,Web,137570
+904,250,2026-07-24,Despachado,Instagram,157126
+905,63,2026-06-29,Entregado,Web,382603
+906,280,2026-07-23,Despachado,Web,151392
+907,85,2026-08-07,En Proceso,Tienda MDP,97438
+908,479,2026-08-31,En Proceso,Tienda MDP,383388
+909,318,2026-07-12,En Proceso,Instagram,347684
+910,116,2026-08-24,Despachado,Marketplace,288100
+911,499,2026-07-03,En Proceso,Tienda MDP,389871
+912,252,2026-07-20,Entregado,Instagram,102578
+913,22,2026-07-25,Entregado,Web,168596
+914,25,2026-06-22,Cancelado,Marketplace,38759
+915,101,2026-08-11,Entregado,Instagram,141362
+916,395,2026-06-11,Entregado,Web,373674
+917,241,2026-08-31,Cancelado,Instagram,355807
+918,64,2026-08-28,Cancelado,Marketplace,218612
+919,385,2026-07-13,Cancelado,Marketplace,154039
+920,189,2026-07-02,Despachado,Instagram,219094
+921,438,2026-06-12,Entregado,Tienda MDP,395742
+922,429,2026-07-13,Cancelado,Web,363362
+923,23,2026-08-20,Cancelado,Tienda MDP,344321
+924,166,2026-06-27,Entregado,Tienda MDP,177577
+925,4,2026-06-29,Cancelado,Tienda MDP,372617
+926,300,2026-06-25,En Proceso,Web,393373
+927,435,2026-07-23,Entregado,Instagram,224609
+928,447,2026-08-25,En Proceso,Tienda MDP,140010
+929,437,2026-06-15,Entregado,Instagram,183313
+930,70,2026-07-17,Cancelado,Web,246861
+931,241,2026-06-06,En Proceso,Tienda MDP,53599
+932,11,2026-08-31,Entregado,Tienda MDP,154203
+933,451,2026-08-10,Cancelado,Marketplace,87356
+934,1,2026-08-14,Cancelado,Tienda MDP,256683
+935,229,2026-06-18,Entregado,Marketplace,356671
+936,1,2026-06-04,En Proceso,Web,341945
+937,279,2026-08-26,En Proceso,Tienda MDP,359514
+938,290,2026-06-03,En Proceso,Marketplace,172667
+939,113,2026-08-23,Despachado,Tienda MDP,364313
+940,133,2026-06-24,Cancelado,Web,163905
+941,240,2026-06-22,Despachado,Instagram,127608
+942,412,2026-07-02,Despachado,Marketplace,321087
+943,32,2026-06-23,Cancelado,Tienda MDP,38531
+944,376,2026-08-27,Cancelado,Tienda MDP,281440
+945,337,2026-07-12,Cancelado,Instagram,171492
+946,190,2026-08-10,Despachado,Web,361568
+947,338,2026-06-05,En Proceso,Instagram,263362
+948,106,2026-08-14,En Proceso,Marketplace,325699
+949,141,2026-08-15,Cancelado,Marketplace,388848
+950,2,2026-07-29,Cancelado,Web,69419
+951,479,2026-08-14,Entregado,Tienda MDP,393024
+952,87,2026-06-25,Entregado,Tienda MDP,58386
+953,188,2026-07-02,Cancelado,Marketplace,253827
+954,109,2026-08-03,Entregado,Tienda MDP,22597
+955,446,2026-08-04,En Proceso,Web,173705
+956,405,2026-08-10,Cancelado,Tienda MDP,212743
+957,310,2026-08-17,Despachado,Marketplace,102355
+958,426,2026-08-23,Cancelado,Marketplace,129240
+959,134,2026-07-07,Despachado,Instagram,57827
+960,273,2026-08-30,Despachado,Instagram,74921
+961,301,2026-08-17,Entregado,Tienda MDP,324141
+962,269,2026-08-10,En Proceso,Tienda MDP,68275
+963,248,2026-08-31,En Proceso,Instagram,63589
+964,125,2026-08-14,Entregado,Marketplace,146677
+965,264,2026-06-26,Entregado,Web,237876
+966,155,2026-07-18,Entregado,Web,373260
+967,470,2026-06-03,En Proceso,Instagram,382880
+968,144,2026-08-02,En Proceso,Web,187184
+969,134,2026-07-02,En Proceso,Instagram,58704
+970,398,2026-07-29,Entregado,Tienda MDP,130807
+971,204,2026-08-23,Entregado,Instagram,208608
+972,296,2026-08-31,Entregado,Instagram,399879
+973,219,2026-07-23,En Proceso,Marketplace,100048
+974,420,2026-06-03,Entregado,Marketplace,368883
+975,27,2026-08-29,Despachado,Instagram,181775
+976,168,2026-07-18,Despachado,Web,275219
+977,404,2026-07-31,En Proceso,Marketplace,146476
+978,429,2026-07-13,Cancelado,Marketplace,40533
+979,332,2026-07-28,Cancelado,Marketplace,301224
+980,377,2026-08-15,Entregado,Web,264912
+981,407,2026-07-09,Entregado,Marketplace,396649
+982,162,2026-07-18,En Proceso,Web,276191
+983,361,2026-08-09,Cancelado,Marketplace,341613
+984,453,2026-06-23,Cancelado,Tienda MDP,141628
+985,374,2026-07-05,Cancelado,Instagram,287996
+986,293,2026-07-04,Entregado,Tienda MDP,194173
+987,168,2026-06-30,En Proceso,Instagram,319175
+988,62,2026-07-27,Cancelado,Marketplace,251229
+989,115,2026-07-05,Entregado,Tienda MDP,286996
+990,394,2026-06-23,En Proceso,Web,387390
+991,255,2026-06-20,Despachado,Tienda MDP,330627
+992,331,2026-06-22,Cancelado,Marketplace,126621
+993,232,2026-07-15,Cancelado,Marketplace,261024
+994,238,2026-08-01,Entregado,Marketplace,138095
+995,213,2026-06-18,En Proceso,Tienda MDP,275614
+996,152,2026-07-26,Despachado,Web,306667
+997,147,2026-06-09,Entregado,Marketplace,399893
+998,358,2026-07-18,Cancelado,Web,283917
+999,182,2026-08-12,Despachado,Web,91276
+1000,459,2026-07-13,Entregado,Web,395893
+1001,316,2026-08-24,Cancelado,Web,350467
+1002,118,2026-08-06,En Proceso,Instagram,72188
+1003,395,2026-08-20,En Proceso,Web,152583
+1004,404,2026-08-30,Cancelado,Web,175314
+1005,366,2026-06-28,Despachado,Tienda MDP,382723
+1006,399,2026-07-22,En Proceso,Tienda MDP,380727
+1007,79,2026-06-21,Cancelado,Web,260769
+1008,369,2026-07-14,Despachado,Marketplace,265787
+1009,205,2026-06-06,Cancelado,Instagram,72721
+1010,131,2026-07-10,Cancelado,Marketplace,197701
+1011,320,2026-07-13,Despachado,Instagram,276544
+1012,137,2026-08-20,Entregado,Instagram,114095
+1013,23,2026-08-19,Despachado,Marketplace,379507
+1014,225,2026-07-31,Cancelado,Web,210202
+1015,322,2026-07-25,Entregado,Instagram,185766
+1016,331,2026-07-13,Cancelado,Tienda MDP,306448
+1017,180,2026-08-30,En Proceso,Web,64238
+1018,396,2026-06-08,Cancelado,Tienda MDP,195944
+1019,185,2026-08-12,Despachado,Web,127177
+1020,355,2026-07-13,Cancelado,Web,281821
+1021,400,2026-06-12,Cancelado,Web,29041
+1022,325,2026-06-03,Cancelado,Web,189203
+1023,218,2026-08-13,Cancelado,Instagram,179101
+1024,295,2026-08-17,Entregado,Web,319640
+1025,207,2026-08-03,En Proceso,Web,60740
+1026,231,2026-08-28,En Proceso,Tienda MDP,195414
+1027,384,2026-07-02,Cancelado,Instagram,45135
+1028,321,2026-08-28,Cancelado,Marketplace,187520
+1029,100,2026-08-23,En Proceso,Marketplace,375795
+1030,6,2026-06-07,Entregado,Instagram,52690
+1031,357,2026-08-12,En Proceso,Web,357163
+1032,227,2026-06-10,Despachado,Tienda MDP,68064
+1033,310,2026-06-16,Cancelado,Instagram,368189
+1034,257,2026-08-03,Despachado,Web,75923
+1035,368,2026-08-11,Cancelado,Web,218261
+1036,145,2026-06-05,Despachado,Instagram,320081
+1037,186,2026-08-13,Cancelado,Tienda MDP,360396
+1038,313,2026-08-09,Despachado,Web,249237
+1039,367,2026-08-11,Despachado,Web,144867
+1040,126,2026-07-09,Entregado,Web,376467
+1041,394,2026-07-12,Despachado,Marketplace,77700
+1042,258,2026-06-08,Despachado,Marketplace,46903
+1043,294,2026-08-28,Despachado,Tienda MDP,341699
+1044,279,2026-07-23,En Proceso,Tienda MDP,314326
+1045,295,2026-06-11,Cancelado,Tienda MDP,232214
+1046,394,2026-07-27,Entregado,Tienda MDP,205264
+1047,489,2026-08-11,En Proceso,Instagram,301361
+1048,497,2026-08-16,Despachado,Web,117128
+1049,155,2026-08-26,Entregado,Tienda MDP,216362
+1050,330,2026-06-08,Entregado,Marketplace,229808
+1051,345,2026-08-14,En Proceso,Instagram,152513
+1052,451,2026-08-05,Entregado,Marketplace,58359
+1053,143,2026-07-19,Despachado,Web,72299
+1054,497,2026-07-02,Entregado,Tienda MDP,298355
+1055,130,2026-07-12,Cancelado,Instagram,47309
+1056,384,2026-07-23,Despachado,Instagram,271810
+1057,379,2026-08-01,Cancelado,Instagram,40266
+1058,257,2026-06-20,Entregado,Tienda MDP,59543
+1059,70,2026-08-24,Cancelado,Instagram,94653
+1060,160,2026-06-17,Entregado,Marketplace,155831
+1061,315,2026-06-28,Entregado,Marketplace,174554
+1062,449,2026-06-26,En Proceso,Marketplace,74404
+1063,90,2026-06-15,Entregado,Instagram,344193
+1064,95,2026-07-18,En Proceso,Instagram,274697
+1065,238,2026-07-24,Entregado,Instagram,202534
+1066,208,2026-08-22,Entregado,Web,380992
+1067,460,2026-06-23,Cancelado,Tienda MDP,244732
+1068,405,2026-08-16,Entregado,Tienda MDP,370048
+1069,158,2026-08-26,En Proceso,Instagram,349460
+1070,314,2026-06-16,Despachado,Marketplace,327455
+1071,205,2026-07-31,En Proceso,Web,21706
+1072,2,2026-07-04,Entregado,Tienda MDP,63293
+1073,356,2026-08-29,Cancelado,Marketplace,267221
+1074,438,2026-08-26,En Proceso,Instagram,354730
+1075,98,2026-06-27,Cancelado,Instagram,29212
+1076,238,2026-08-20,Despachado,Marketplace,204546
+1077,207,2026-06-20,Despachado,Instagram,384031
+1078,204,2026-07-12,Cancelado,Instagram,91855
+1079,368,2026-07-16,Despachado,Marketplace,222789
+1080,375,2026-08-14,Entregado,Marketplace,41686
+1081,447,2026-06-25,Cancelado,Instagram,221140
+1082,377,2026-08-19,Cancelado,Web,320898
+1083,421,2026-06-05,Entregado,Instagram,33564
+1084,206,2026-06-14,Cancelado,Instagram,219930
+1085,485,2026-08-22,Entregado,Tienda MDP,20609
+1086,269,2026-08-08,Entregado,Web,52836
+1087,436,2026-06-22,Entregado,Marketplace,264383
+1088,400,2026-07-18,Entregado,Tienda MDP,332156
+1089,258,2026-06-12,Despachado,Tienda MDP,194755
+1090,333,2026-08-30,En Proceso,Instagram,79049
+1091,132,2026-06-15,En Proceso,Web,363608
+1092,150,2026-08-12,Despachado,Tienda MDP,73209
+1093,470,2026-08-01,En Proceso,Instagram,293359
+1094,139,2026-08-29,Despachado,Marketplace,193245
+1095,8,2026-08-31,En Proceso,Marketplace,142066
+1096,16,2026-07-08,Entregado,Marketplace,203561
+1097,499,2026-07-31,Entregado,Tienda MDP,60199
+1098,332,2026-08-22,Cancelado,Instagram,46089
+1099,380,2026-08-17,En Proceso,Tienda MDP,144396
+1100,448,2026-06-29,En Proceso,Marketplace,194729
+1101,32,2026-08-13,En Proceso,Instagram,53620
+1102,23,2026-07-11,Cancelado,Tienda MDP,49952
+1103,130,2026-08-13,Despachado,Web,83079
+1104,500,2026-06-16,En Proceso,Instagram,261797
+1105,49,2026-08-26,Entregado,Instagram,59151
+1106,326,2026-07-15,Entregado,Marketplace,280344
+1107,459,2026-06-28,Entregado,Web,155166
+1108,71,2026-07-11,En Proceso,Instagram,352664
+1109,331,2026-08-10,Entregado,Web,359971
+1110,211,2026-06-15,En Proceso,Marketplace,84802
+1111,311,2026-06-30,Despachado,Marketplace,119153
+1112,186,2026-06-04,Entregado,Instagram,297160
+1113,145,2026-06-06,Cancelado,Web,101009
+1114,184,2026-07-11,En Proceso,Instagram,120896
+1115,254,2026-07-13,Entregado,Marketplace,399395
+1116,111,2026-08-15,Entregado,Web,71235
+1117,185,2026-08-21,Despachado,Instagram,363707
+1118,336,2026-08-06,En Proceso,Marketplace,186284
+1119,207,2026-07-29,Cancelado,Marketplace,21224
+1120,15,2026-07-03,Despachado,Instagram,188253
+1121,356,2026-08-09,Cancelado,Web,81559
+1122,340,2026-07-12,Cancelado,Marketplace,341426
+1123,292,2026-07-25,Entregado,Instagram,271697
+1124,440,2026-07-24,Despachado,Marketplace,386187
+1125,186,2026-07-28,Cancelado,Instagram,260128
+1126,150,2026-08-30,En Proceso,Tienda MDP,391964
+1127,110,2026-07-26,Entregado,Web,268190
+1128,175,2026-08-30,Entregado,Marketplace,314355
+1129,60,2026-08-07,En Proceso,Instagram,358123
+1130,326,2026-08-15,Entregado,Tienda MDP,354726
+1131,438,2026-08-29,Entregado,Web,204704
+1132,363,2026-07-09,En Proceso,Instagram,103823
+1133,102,2026-07-31,Cancelado,Tienda MDP,28702
+1134,460,2026-06-03,Cancelado,Web,129886
+1135,94,2026-08-19,Cancelado,Marketplace,127258
+1136,2,2026-06-04,En Proceso,Web,269526
+1137,319,2026-07-17,Entregado,Tienda MDP,384772
+1138,409,2026-08-11,En Proceso,Marketplace,377925
+1139,229,2026-08-17,Despachado,Web,184965
+1140,214,2026-08-15,En Proceso,Web,234486
+1141,321,2026-07-06,Entregado,Marketplace,62531
+1142,70,2026-06-18,Cancelado,Web,162976
+1143,245,2026-07-29,Entregado,Instagram,32156
+1144,456,2026-07-29,En Proceso,Tienda MDP,52901
+1145,161,2026-08-01,En Proceso,Tienda MDP,252007
+1146,412,2026-06-09,Cancelado,Instagram,374869
+1147,115,2026-07-30,En Proceso,Marketplace,199661
+1148,478,2026-08-18,Despachado,Instagram,224315
+1149,147,2026-06-19,Despachado,Instagram,261009
+1150,292,2026-07-18,Entregado,Marketplace,96911
+1151,80,2026-06-09,Entregado,Marketplace,20213
+1152,167,2026-08-08,En Proceso,Instagram,274910
+1153,497,2026-08-16,Entregado,Tienda MDP,23232
+1154,167,2026-08-14,Cancelado,Marketplace,334745
+1155,86,2026-06-23,Cancelado,Instagram,262006
+1156,370,2026-06-05,En Proceso,Web,372165
+1157,308,2026-08-28,En Proceso,Instagram,142921
+1158,437,2026-07-31,En Proceso,Web,257072
+1159,223,2026-07-11,Entregado,Marketplace,274912
+1160,152,2026-08-06,En Proceso,Instagram,22999
+1161,49,2026-08-28,Entregado,Marketplace,75358
+1162,130,2026-07-26,Cancelado,Tienda MDP,380218
+1163,396,2026-06-16,En Proceso,Web,315806
+1164,369,2026-06-29,Entregado,Web,25832
+1165,292,2026-08-23,Despachado,Web,91072
+1166,203,2026-08-16,Cancelado,Instagram,351208
+1167,369,2026-06-07,Entregado,Instagram,388203
+1168,313,2026-08-05,Despachado,Instagram,309209
+1169,92,2026-08-15,Entregado,Web,169869
+1170,160,2026-08-24,Despachado,Instagram,156777
+1171,76,2026-08-05,En Proceso,Web,199476
+1172,131,2026-06-15,En Proceso,Tienda MDP,316861
+1173,461,2026-07-01,Cancelado,Marketplace,155623
+1174,486,2026-08-17,Despachado,Web,128279
+1175,414,2026-08-20,Cancelado,Marketplace,205015
+1176,442,2026-06-28,Entregado,Instagram,66283
+1177,88,2026-08-06,Cancelado,Instagram,341835
+1178,419,2026-06-29,Despachado,Web,101465
+1179,463,2026-06-11,En Proceso,Instagram,198585
+1180,406,2026-08-28,Despachado,Marketplace,253092
+1181,432,2026-08-29,Despachado,Web,329763
+1182,366,2026-06-28,Despachado,Web,107125
+1183,68,2026-07-10,En Proceso,Web,288952
+1184,459,2026-06-20,En Proceso,Web,399340
+1185,67,2026-07-14,Entregado,Web,289427
+1186,83,2026-08-08,En Proceso,Web,132666
+1187,202,2026-08-04,En Proceso,Marketplace,26965
+1188,423,2026-07-02,Entregado,Tienda MDP,178068
+1189,188,2026-06-03,Entregado,Tienda MDP,37324
+1190,439,2026-07-03,En Proceso,Tienda MDP,31239
+1191,273,2026-07-27,Despachado,Tienda MDP,147835
+1192,425,2026-08-31,En Proceso,Marketplace,325567
+1193,39,2026-08-13,Despachado,Marketplace,61003
+1194,266,2026-07-18,En Proceso,Web,52536
+1195,191,2026-07-28,En Proceso,Instagram,365084
+1196,132,2026-08-21,En Proceso,Tienda MDP,105282
+1197,19,2026-07-08,Entregado,Web,375883
+1198,96,2026-06-04,Cancelado,Instagram,105928
+1199,132,2026-06-26,Entregado,Tienda MDP,162675
+1200,491,2026-07-01,Cancelado,Instagram,65370
