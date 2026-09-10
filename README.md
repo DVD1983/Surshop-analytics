@@ -42,7 +42,7 @@ jupyter notebook
  Modelo predictivo de cancelación
  Segmentación RFM de clientes
 Autor: David Alvado - DSIA 2026 | Gerli, BA
-[LinkedIn] - [Portfolio]
+
 
 
 
