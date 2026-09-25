@@ -23,7 +23,7 @@ Este proyecto responde 3 preguntas de negocio que todo dueño de e-commerce se h
 ### 📁 Dataset
 `pedidos.csv` - 1200 registros
 - **Columnas clave:** categoria, margen, estado_pedido, monto, fecha
-- **Periodo:** Periodo: Ene-Mar 2024 - Dataset Surshop
+- **Periodo:** Ene-Mar 2024 - Dataset Surshop
 
 ### 🛠️ Stack
 - **Python, Pandas, NumPy**
